@@ -50,6 +50,10 @@ title=""
 url=""
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stb.png"
 
+title="Stube.To"
+url=""
+image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stbt.png"
+
 title="VİP~CODE~ANDROİD"
 url=""
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/android.png"
@@ -69,6 +73,10 @@ image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stb.png
 title="VİP~CODE~WİNDOVS"
 url=""
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/win.png"
+
+title="Stube.Stream"
+url=""
+image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stbs.png"
 
 title="VİP-CODE-7"
 url="https://drive.usercontent.google.com/download?id=11iao-0WKrTdqkSn2E8ptXMYuTFuvnl1w&export=download&authuser=0&confirm=t&uuid=921f8c33-8c3b-4104-b2f5-e07d03cec7f5&at=APZUnTXYVvbGzS7STSBCkO6abW8b:1708161963829"
