@@ -1,0 +1,445 @@
+Û
+P¢t_c        	   @   s7  d  d l  Z  d  d l Z d  d l Z d  d l Z d  d l Z d  d l Z d  d l Z d  d l Z d  d l Z d  d l	 Z	 d  d l
+ Z
+ y d  d l Z e j Z Wn  e
+ k
+ rø e Z e j Z n Xd d d d d d d d	 d
+ g	 Z d e f d Ñ  É  YZ d
+ e f d Ñ  É  YZ e Z d
+ d >d
+ Z d
+ d >d
+ Z d
+ d >d
+ Z d Z d Z d Z d Z e  j e É Z d Z d
+ Z d Z d Z  d Z! d Z" d Z# d Z$ d Z% d Z& d Z' d Z( e  j e' É Z) d Z* d
+ Z+ d Z, d Z- d Z. d Z/ d Z0 d Z1 d Z2 d Z3 d Z4 d Z5 d Z6 d  Z7 d! Z8 d" Z9 d Z: d# Z; d$ Z< d% Z= d& Z> e  j e= É Z? d Z@ d
+ ZA d ZB d ZC d ZD d ZE d ZF d ZG d ZH d ZI d ZJ d ZK d' ZL d( ZM e  j eL É ZN d) ZO d* ZP e  j eO É ZQ d ZR d
+ ZS d ZT d ZU d ZV d ZW d ZX d ZY d ZZ d Z[ d+ Ñ  Z\ d, Ñ  Z] d- Ñ  Z^ d. Ñ  Z_ d e` f d/ Ñ  É  YZa d0 f  d1 Ñ  É  YZb i d2 d 6d3 d
+ 6d4 d 6d4 d 6d4 d 6d4 d 6d5 d 6d6 d 6d7 d 6d8 d 6d5 d 6d9 d 6d: d! 6d; d$ 6d< d= 6d> d? 6d@ dA 6Zc dB e jd f dC Ñ  É  YZe d e` f dD Ñ  É  YZf d	 ef f dE Ñ  É  YZg e dF Ñ Zh ei dG k r3eh É  n  d S(H   iˇˇˇˇNt
+   BadZipfilet   errort
+   ZIP_STOREDt   ZIP_DEFLATEDt
+   is_zipfilet   ZipInfot   ZipFilet	   PyZipFilet   LargeZipFilec           B   s   e  Z RS(    (   t   __name__t
+   __module__(    (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR       s   c           B   s   e  Z d  Z RS(   su   
+    Raised when writing a zipfile, the zipfile requires ZIP64 extensions
+    and those extensions are disabled.
+    (   R	   R
+   t   __doc__(    (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR      s   i   i   i   i    i   s   <4s4H2LHs   PKi   i   i   i   i   i   i	   s   <4s4B4HL2L5H2Ls   PKi
+   i   i   i
+   i   i   i   i   s   <4s2B4HL2L2Hs   PKs   <4sLQLs   PKs
+   <4sQ2H2L4Qs   PKc         C   s,   y t  |  É r t SWn t k
+ r' n Xt S(   N(   t   _EndRecDatat   Truet   IOErrort   False(   t   fp(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   _check_zipfileÖ   s    
+c         C   sg   t  } yI t |  d É r* t d |  É } n$ t |  d É è } t | É } Wd QXWn t k
+ rb n X| S(   sà   Quickly see if a file is a ZIP file by checking the magic number.
+
+    The filename argument may be a file or file-like object too.
+    t   readR   t   rbN(   R   t   hasattrR   t   openR   (   t   filenamet   resultR   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR   ç   s    
+c      
+   C   sn  y |  j  | t d É Wn t k
+ r, | SX|  j t É } t | É t k rR | St j t | É \ } } } } | t k rÄ | S| d k sò | d k rß t	 d É Ç n  |  j  | t t
+ d É |  j t
+ É } t | É t
+ k r‰ | St j t | É \
+ } } }	 }
+ } } }
+ } } } | t k r$| S| | t
+ <| | t <| | t <|
+ | t <| | t <| | t <| | t <| S(   sM   
+    Read the ZIP64 end-of-archive records and use that to update endrec
+    i   i    i   s3   zipfiles that span multiple disks are not supported(   t   seekt   sizeEndCentDir64LocatorR   R   t   lent   structt   unpackt   structEndArchive64Locatort   stringEndArchive64LocatorR    t   sizeEndCentDir64t   structEndArchive64t   stringEndArchive64t   _ECD_SIGNATUREt   _ECD_DISK_NUMBERt   _ECD_DISK_STARTt   _ECD_ENTRIES_THIS_DISKt   _ECD_ENTRIES_TOTALt	   _ECD_SIZEt   _ECD_OFFSET(   t   fpint   offsett   endrect   datat   sigt   disknot   relofft   diskst   szt   create_versiont   read_versiont   disk_numt   disk_dirt   dircountt	   dircount2t   dirsizet	   diroffset(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt
+   _EndRecData64ù   s6    
+0
+
+
+
+
+
+
+c   	      C   sæ  |  j  d d É |  j É  } y |  j  t d É Wn t k
+ rE d	 SX|  j É  } t | É t k r‘ | d d !t k r‘ | d d k r‘ t j	 t
+ | É } t | É } | j d É | j | t É t
+ |  t | É St | d
+ t d É } |  j  | d É |  j É  } | j t É } | d k r∫| | | t !} t | É t k rId	 St t j	 t
+ | É É } | t } | | t | t | !} | j | É | j | | É t
+ |  | | | | É Sd	 S(   s‘   Return data from the "End of Central Directory" record, or None.
+
+    The data is a list of the nine items in the ZIP "End of central dir"
+    record followed by a tenth item, the file seek offset of this record.i    i   i   i˛ˇˇˇs     t    i   i   Ni   (   R   t   tellt   sizeEndCentDirR   t   NoneR   R   t   stringEndArchiveR   R   t   structEndArchivet   listt   appendR:   t   maxt   rfindt   _ECD_COMMENT_SIZE(	   R)   t   filesizeR,   R+   t   maxCommentStartt   startt   recDatat   commentSizet   comment(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR   »   s>    
+
+
+
+c           B   sJ   e  Z d  Z d Z d d d Ñ Z d d Ñ Z d Ñ  Z d Ñ  Z d Ñ  Z	 RS(    s>   Class with attributes describing each file in the ZIP archive.t
+   orig_filenameR   t	   date_timet
+   compress_typeRK   t   extrat
+   create_systemR2   t   extract_versiont   reservedt	   flag_bitst   volumet
+   internal_attrt
+   external_attrt
+   header_offsett   CRCt
+   compress_sizet	   file_sizet	   _raw_timet   NoNameiº  i   i    c         C   s#  | |  _  | j t d É É } | d k r: | d | !} n  t j d k rp t j | k rp | j t j d É } n  | |  _ | |  _ | d d k  r° t d É Ç n  t	 |  _
+ d |  _ d |  _ t
+ j d k r◊ d |  _ n	 d |  _ d |  _ d |  _ d |  _ d |  _ d |  _ d |  _ d |  _ d  S(	   Ni    t   /iº  s+   ZIP does not support timestamps before 1980R;   t   win32i   i   (   RL   t   findt   chrt   ost   sept   replaceR   RM   t
+   ValueErrorR   RN   RK   RO   t   syst   platformRP   R2   RQ   RR   RS   RT   RU   RV   (   t   selfR   RM   t	   null_byte(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   __init__  s.    													c   
+      C   s≈  |  j  } | d d d >| d d >B| d B} | d d >| d	 d >B| d d B} |  j d
+ @rs d } } } n |  j } |  j } |  j } |  j } | d k ræ | t k p∏ | t k } n  | r˘ d }	 | t j	 |	 d t j
+ |	 É d	 | | É } n  | t k s| t k r_| s&t d É Ç n  d
+ } d
+ } t d |  j
+ É |  _
+ t d |  j
+ É |  _ n  |  j É  \ }
+ } t j	 t t |  j
+ |  j | |  j | | | | | t |
+ É t | É É
+ } | |
+ | S(   s'   Return the per-file header as a string.i    iº  i	   i   i   i   i   i   i   i   s   <HHQQs'   Filesize would require ZIP64 extensionsl   ˇˇ i-   N(   RM   RS   RX   RY   RZ   RO   R>   t   ZIP64_LIMITR   t   packt   calcsizeR   RC   RQ   R2   t   _encodeFilenameFlagst   structFileHeadert   stringFileHeaderRR   RN   R   (
+   Rg   t   zip64t   dtt   dosdatet   dostimeRX   RY   RZ   RO   t   fmtR   RS   t   header(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt
+   FileHeaderH  s:    	&&
+				#c         C   st   t  |  j t É r` y |  j j d É |  j f SWqp t k
+ r\ |  j j d É |  j d Bf SXn |  j |  j f Sd  S(   Nt   asciis   utf-8i   (   t
+   isinstanceR   t   unicodet   encodeRS   t   UnicodeEncodeError(   Rg   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRm   o  s    
+!c         C   s(   |  j  d @r |  j j d É S|  j Sd  S(   Ni   s   utf-8(   RS   R   t   decode(   Rg   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   _decodeFilenamex  s    
+c         C   sÉ  |  j  } t j } xjt | É d k r~| d | d  É \ } } | d k rm| d k rq | d | d d !É } no | d k rñ | d | d d	 !É } nJ | d
+ k rª | d | d d !É } n% | d
+ k r– d } n t d | f Ç d
+ } |  j d k r| | |  _ | d 7} n  |  j d k r8| | |  _ | d 7} n  |  j d k rm|  j } | | |  _ | d 7} qmn  | | d } q Wd  S(   Ni   s   <HHi   i   s   <QQQi   i   s   <QQi   i   s   <Qi   i    s   Corrupt extra field %sl   ˇˇˇˇ l   ˇˇ (    (   l   ˇˇˇˇ l   ˇˇ (   RO   R   R   R   t   RuntimeErrorRZ   RY   RW   (   Rg   RO   R   t   tpt   lnt   countst   idxt   old(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   _decodeExtra~  s4    			
+
+
+
+	
+(   RL   R   RM   RN   RK   RO   RP   R2   RQ   RR   RS   RT   RU   RV   RW   RX   RY   RZ   R[   (   iº  i   i   i    i    i    N(
+   R	   R
+   R   t	   __slots__Ri   R>   Rv   Rm   R}   RÑ   (    (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR     s2                     *'			t
+   _ZipDecrypterc           B   sD   e  Z d  Z d Ñ  Z e É  Z d Ñ  Z d Ñ  Z d Ñ  Z d Ñ  Z RS(   s  Class to handle decryption of files stored within a ZIP archive.
+
+    ZIP supports a password-based form of encryption. Even though known
+    plaintext attacks have been found against it, it is still useful
+    to be able to get data out of such a file.
+
+    Usage:
+        zd = _ZipDecrypter(mypwd)
+        plain_char = zd(cypher_char)
+        plain_text = map(zd, cypher_text)
+    c          C   sÇ   d }  d g d } xh t  d É D]Z } | } xA t  d É D]3 } | d @r^ | d ?d @|  A} q9 | d ?d @} q9 W| | | <q  W| S(   s‚   Generate a CRC-32 table.
+
+        ZIP encryption uses the CRC32 one-byte primitive for scrambling some
+        internal keys. We noticed that a direct implementation is faster than
+        relying on binascii.crc32().
+        l    q[ i    i   i   i   iˇˇˇ(   t   range(   t   polyt   tablet   it   crct   j(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   _GenerateCRCTable∞  s    
+
+c         C   s%   | d ?d @|  j  | t | É Ad @AS(   s(   Compute the CRC32 primitive on one byte.i   iˇˇˇ iˇ   (   t   crctablet   ord(   Rg   t   chRã   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   _crc32ƒ  s    c         C   s=   d |  _  d |  _ d |  _ x | D] } |  j | É q" Wd  S(   NixV4iâgE#iêxV4(   t   key0t   key1t   key2t   _UpdateKeys(   Rg   t   pwdt   p(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRi   »  s
+    			
+c         C   sx   |  j  | |  j É |  _ |  j |  j d @d @|  _ |  j d d d @|  _ |  j  t |  j d ?d @É |  j É |  _ d  S(   Niˇ   l   ˇˇ iÑi   i   (   Rë   Rí   Rì   R`   Rî   (   Rg   t   c(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRï   œ  s    c         C   sP   t  | É } |  j d B} | | | d Ad ?d @A} t | É } |  j | É | S(   s   Decrypt a single character.i   i   i   iˇ   (   Rè   Rî   R`   Rï   (   Rg   Rò   t   k(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   __call__’  s    
+
+(	   R	   R
+   R   Rç   Ré   Rë   Ri   Rï   Rö   (    (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRÜ   £  s   					t   storet   shrinkt   reducet   implodet   tokenizet   deflatet	   deflate64t   bzip2t   lzmat   terset   lz77i   t   wavpackia   t   ppmdib   t
+   ZipExtFilec           B   sÑ   e  Z d  Z d d >Z d Z e j d É Z d e	 d Ñ Z
+ d d Ñ Z d d Ñ Z d	 Ñ  Z
+ d d
+ Ñ Z d Ñ  Z d Ñ  Z d
+ Ñ  Z RS(   sZ   File-like object for reading an archive member.
+       Is returned by ZipFile.open().
+    i   i   i   s*   ^(?P<chunk>[^\r\n]+)|(?P<newline>\n|\r\n?)c         C   sf  | |  _  | |  _ | |  _ | j |  _ | j |  _ | j |  _ |  j t k rc t	 j
+ d É |  _ n\ |  j t k rø t
+ j |  j É } | r¶ t d |  j | f É Ç qø t d |  j f É Ç n  d |  _ d |  _ d |  _ d | k |  _ d  |  _ |  j d  k	 r|  j d 8_ n  | |  _ | j |  _ t | d É rY| j |  _ t d É d	 @|  _ n	 d  |  _ d  S(
+   NiÒˇˇˇs   compression type %d (%s)s   compression type %dR;   i    t   Ui   RX   l   ˇˇ (   t   _fileobjt
+   _decryptert   _close_fileobjRN   t   _compress_typeRY   t   _compress_sizet   _compress_leftR   t   zlibt
+   decompressobjt
+   _decompressorR   t   compressor_namest   gett   NotImplementedErrort   _unconsumedt   _readbuffert   _offsett
+   _universalR>   t   newlinest   modeR   t   nameR   RX   t
+   _expected_crct   crc32t   _running_crc(   Rg   t   fileobjRª   t   zipinfot	   decryptert
+   close_fileobjt   descr(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRi     s4    								iˇˇˇˇc         C   s£  |  j  ra | d k  ra |  j j d |  j É d } | d k ra |  j |  j | !} | |  _ | Sn  |  j  s} t j j |  | É Sd } x| d k  s§ t | É | k  rû|  j d É } | d k r√ | S|  j	 j
+ | É } | j d É } | d k	 rJ|  j
+ d k rg  |  _
+ n  | |  j
+ k r-|  j
+ j | É n  |  j t | É 7_ | d S| j d É } | d k r|| | t | É  } n  |  j t | É 7_ | | 7} qÜ W| S(	   sr   Read and return a line from the stream.
+
+        If limit is specified, at most limit bytes will be read.
+        i    s   
+i   R;   i   t   newlinet   chunkN(   Rπ   R∑   R_   R∏   t   iot   BufferedIOBaset   readlineR   t   peekt   PATTERNt   searcht   groupR>   R∫   RB   (   Rg   t   limitRä   t   linet	   readaheadt   matchR≈   R∆   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR…   *  s8    		!
+c         C   sì   | t  |  j É |  j k r{ |  j | É } t  | É |  j k rc | |  j |  j |  _ d |  _ q{ |  j t  | É 8_ n  |  j |  j |  j d !S(   s6   Returns buffered bytes without advancing the position.i    i   (   R   R∑   R∏   R   (   Rg   t   nR∆   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR    \  s    c         C   s   t  S(   N(   R
+   (   Rg   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   readablei  s    c         C   sú   d } | d k r d } n  xz t ró | d k  rB |  j | É } n2 | t | É k rp |  j | t | É É } n | St | É d k rä | S| | 7} q Wd S(   sè   Read and return up to n bytes.
+        If the argument is omitted, None, or negative, data is read and returned until EOF is reached..
+        R;   iˇˇˇˇi    N(   R>   R
+   t   read1R   (   Rg   R“   t   bufR,   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR   l  s    		c         C   s^   |  j  d  k r d  St | |  j É d @|  _ | rZ |  j |  j  k rZ t d |  j É Ç n  d  S(   Nl   ˇˇ s   Bad CRC-32 for file %r(   RΩ   R>   Ræ   Rø   R    Rº   (   Rg   t   newdatat   eof(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   _update_crc~  s
+    c         C   sg  | d k  s | d k r$ |  j } n  t |  j É |  j } |  j d k rW| | t |  j É k rW| | t |  j É } t | |  j É } t	 | |  j É } |  j
+ j | É } |  j t | É 8_ | r˜ |  j d k	 r˜ d j
+ t |  j | É É } n  |  j t k rE|  j | d |  j d k É|  j |  j | |  _ d |  _ qW|  j | 7_ n  t |  j É d k r4| | k r4|  j t k r4|  j j |  j t | | |  j É É } |  j j |  _ t |  j É d k oﬂ|  j d k } | r˛| |  j j É  7} n  |  j | d | É|  j |  j | |  _ d |  _ n  |  j |  j |  j | !} |  j t | É 7_ | S(   s7   Read up to n bytes with at most one read() system call.i    R;   R◊   N(   R>   t   MAX_NR   R∑   R∏   RØ   R∂   RC   t
+   MIN_READ_SIZEt   minR™   R   R´   t   joint   mapR≠   R   Rÿ   R   R≤   t
+   decompresst   unconsumed_tailt   flush(   Rg   R“   t   len_readbuffert   nbytesR,   R◊   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR‘   à  s>    (!	$c         C   s8   z |  j  r |  j j É  n  Wd  t t |  É j É  Xd  S(   N(   R¨   R™   t   closet   superR®   (   Rg   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR„   º  s    	i   N(   R	   R
+   R   RŸ   R⁄   t   ret   compileRÀ   R>   R   Ri   R…   R    R”   R   Rÿ   R‘   R„   (    (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR®   Ù  s   
+'2
+		
+	4c           B   s  e  Z d  Z d Z d e e d Ñ Z d Ñ  Z d Ñ  Z	 d Ñ  Z
+ d Ñ  Z d Ñ  Z d Ñ  Z
+ d	 Ñ  Z d
+ Ñ  Z d Ñ  Z e d Ñ  É Z e j d
+ Ñ  É Z d d Ñ Z d d d Ñ Z d d d Ñ Z d d d d Ñ Z d Ñ  Z d Ñ  Z d d d Ñ Z d d Ñ Z d Ñ  Z d Ñ  Z RS(   sd   Class with methods to open, read, write, close, list zip files.
+
+    z = ZipFile(file, mode="r", compression=ZIP_STORED, allowZip64=False)
+
+    file: Either the path to the file, or a file-like object.
+          If it is a path, the file will be opened and closed by ZipFile.
+    mode: The mode can be either read "r", write "w" or append "a".
+    compression: ZIP_STORED (no compression) or ZIP_DEFLATED (requires zlib).
+    allowZip64: if True ZipFile will create files with ZIP64 extensions when
+                needed, otherwise it will raise an exception when this would
+                be necessary.
+
+    t   rc         C   sÄ  | d k r t  d É Ç n  | t k r* n* | t k rK t sT t  d Ç qT n	 t  d Ç | |  _ t |  _ d |  _ i  |  _ g  |  _	 | |  _
+ | j d d	 É d |  _ } d |  _ d	 |  _ t | t É rXd |  _ | |  _ i d
+ d 6d d 6d d 6} y t | | | É |  _ Wqt k
+ rT| d k rNd } } t | | | É |  _ qUÇ  qXn' d
+ |  _ | |  _ t | d d É |  _ y» | d k rõ|  j É  n´ | d k r≈t |  _ |  j j É  |  _ nÅ | d k r:y$ |  j É  |  j j |  j d É WqFt k
+ r6|  j j d d É t |  _ |  j j É  |  _ qFXn t  d É Ç Wn2 |  j } d |  _ |  j su| j É  n  Ç  n Xd S(   s>   Open the ZIP file with mode read "r", write "w" or append "a".RÁ   t   wt   as(   ZipFile() requires mode "r", "w", or "a"s.   Compression requires the (missing) zlib modules(   That compression method is not supportedi    t   bR;   R   t   wbs   r+bi   Rº   i   s   Mode must be "r", "w" or "a"N(   RÁ   RË   RÈ   (    R~   R   R   R∞   t   _allowZip64R   t
+   _didModifyt   debugt
+   NameToInfot   filelistt   compressionRc   Rª   R>   Rñ   t   _commentRx   t
+   basestringt   _filePassedR   R   R   R   t   getattrt   _RealGetContentsR
+   R<   t   _start_diskR   t	   start_dirR    R„   (   Rg   t   fileRª   RÒ   t
+   allowZip64t   keyt   modeDictR   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRi   ’  sj    											
+
+
+		
+	
+
+				
+c         C   s   |  S(   N(    (   Rg   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt	   __enter__  s    c         C   s   |  j  É  d  S(   N(   R„   (   Rg   t   typet   valuet	   traceback(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   __exit__!  s    c   
+      C   s\  |  j  } y t | É } Wn t k
+ r8 t d É Ç n X| sK t d Ç n  |  j d k rb | GHn  | t } | t } | t |  _ | t	 | | |  _
+ | t t k ræ |  j
+ t
+ t 8_
+ n  |  j d k rÒ |  j
+ | } d G| G| G|  j
+ GHn  | |  j
+ |  _ | j |  j d É | j | É } t j | É } d } x| | k  rW| j t É } t | É t k rwt d É Ç n  t j t | É } | t t k r®t d É Ç n  |  j d k rø| GHn  | j | t É }	 t |	 É }
+ | j | t É |
+ _ | j | t É |
+ _  | t! |
+ _" | d d !\ |
+ _# |
+ _$ |
+ _% |
+ _& |
+ _' |
+ _( } } |
+ _) |
+ _* |
+ _+ | d	 d
+ !\ |
+ _, |
+ _- |
+ _. | |
+ _/ | d ?d | d
+ ?d	 @| d @| d ?| d
+ ?d @| d @d f |
+ _0 |
+ j1 É  |
+ j" |  j
+ |
+ _" |
+ j2 É  |
+ _3 |  j4 j5 |
+ É |
+ |  j6 |
+ j3 <| t | t | t | t } |  j d k r;d G| GHq;q;Wd S(   s/   Read in the table of contents for the ZIP file.s   File is not a zip filei   i   s   given, inferred, offseti    s   Truncated central directorys&   Bad magic number for central directoryi   i   i   i	   iº  i   i   i   i?   t   totalN(7   R   R   R   R    RÓ   R'   R(   t   _ECD_COMMENTRÚ   t
+   _ECD_LOCATIONR˜   R"   R!   R   R   R¯   R   R   t	   cStringIOt   StringIOt   sizeCentralDirR   R   R   t   structCentralDirt
+   _CD_SIGNATUREt   stringCentralDirt   _CD_FILENAME_LENGTHR   t   _CD_EXTRA_FIELD_LENGTHRO   t   _CD_COMMENT_LENGTHRK   t   _CD_LOCAL_HEADER_OFFSETRW   R2   RP   RQ   RR   RS   RN   RX   RY   RZ   RT   RU   RV   R[   RM   RÑ   R}   R   R   RB   RÔ   (
+   Rg   R   R+   t   size_cdt	   offset_cdt   inferredR,   R  t   centdirR   t   xt   tt   d(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRˆ   $  sd    	
+
+
+
+
+
+I	&
+"c         C   s.   g  } x! |  j  D] } | j | j É q W| S(   s+   Return a list of file names in the archive.(   R   RB   R   (   Rg   t   lR,   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   namelistj  s    c         C   s   |  j  S(   sJ   Return a list of class ZipInfo instances for files in the
+        archive.(   R   (   Rg   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   infolistq  s    c         C   sJ   d d	 GHx: |  j  D]/ } d | j d  } d | j | | j f GHq Wd S(
+   s+   Print a table of contents for the zip file.s   %-46s %19s %12ss	   File Names   Modified    t   Sizes   %d-%02d-%02d %02d:%02d:%02di   s
+   %-46s %s %12dN(   s	   File Names   Modified    R  (   R   RM   R   RZ   (   Rg   t   zinfot   date(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   printdirv  s    	c         C   sn   d } xa |  j  D]V } y8 |  j | j d É è } x | j | É rF q4 WWd QXWq t k
+ re | j SXq Wd S(   s%   Read all the files and check the CRC.i   i   RÁ   Ni   (   R   R   R   R   R    (   Rg   t
+   chunk_sizeR  t   f(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   testzip}  s    
+c         C   s5   |  j  j | É } | d k r1 t d | É Ç n  | S(   s,   Return the instance of ZipInfo given 'name'.s(   There is no item named %r in the archiveN(   RÔ   R¥   R>   t   KeyError(   Rg   Rº   t   info(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   getinfoä  s
+    c         C   s
+   | |  _  d S(   s)   Set default password for encrypted files.N(   Rñ   (   Rg   Rñ   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   setpasswordì  s    c         C   s   |  j  S(   s.   The comment text associated with the ZIP file.(   RÚ   (   Rg   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRK   ó  s    c         C   sX   t  | É t k rB d d  l } | j d t d d É| t  } n  | |  _ t |  _ d  S(   Niˇˇˇˇs3   Archive comment is too long; truncating to %d bytest
+   stackleveli   (   R   t   ZIP_MAX_COMMENTt   warningst   warnRÚ   R
+   RÌ   (   Rg   RK   R&  (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRK   ú  s    	
+	c         C   s   |  j  | d | É j É  S(   s)   Return file bytes (as a string) for name.RÁ   (   R   R   (   Rg   Rº   Rñ   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR   ß  s    c         C   sd  | d k r t  d Ç n  |  j s- t  d Ç n  |  j rH |  j } t } n t |  j d É } t } y‡t | t É r{ | } n |  j	 | É } | j
+ | j d É | j t
+ É } t | É t
+ k rÕ t d É Ç n  t j t | É } | t t k r˛ t d	 É Ç n  | j | t É } | t r/| j | t É n  | | j k rWt d
+ | j | f Ç n  | j d @}	 d }
+ |	 r&| sÇ|  j } n  | sòt  d | Ç n  t | É }
+ | j d
+ É } t |
+ | d d
+ !É } | j d @rÍ| j d ?d @}
+ n | j d ?d @}
+ t | d É |
+ k r&t  d | É Ç q&n  t  | | | |
+ d | ÉSWn | rY| j! É  n  Ç  n Xd S(   s#   Return file-like object for 'name'.RÁ   R©   t   rUs&   open() requires mode "r", "U", or "rU"s3   Attempt to read ZIP archive that was already closedR   i    s   Truncated file headers    Bad magic number for file headers3   File name in directory "%s" and header "%s" differ.i   s6   File %s is encrypted, password required for extractioni   i   iˇ   i   i   s   Bad password for fileR√   N(   RÁ   R©   R(  ("   R~   R   RÙ   R   R   R   R
+   Rx   R   R"  R   RW   R   t   sizeFileHeaderR   R    R   R   Rn   t
+   _FH_SIGNATURERo   t   _FH_FILENAME_LENGTHt   _FH_EXTRA_FIELD_LENGTHRL   RS   R>   Rñ   RÜ   R›   R[   RX   Rè   R®   R„   (   Rg   Rº   Rª   Rñ   t   zef_filet   should_closeR  t   fheadert   fnamet   is_encryptedt   zdt   bytest   ht
+   check_byte(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR   ´  sd    						
+
+
+
+
+c         C   sO   t  | t É s! |  j | É } n  | d k r< t j É  } n  |  j | | | É S(   s#  Extract a member from the archive to the current working directory,
+           using its full name. Its file information is extracted as accurately
+           as possible. `member' may be a filename or a ZipInfo object. You can
+           specify a different directory using `path'.
+        N(   Rx   R   R"  R>   Ra   t   getcwdt   _extract_member(   Rg   t   membert   pathRñ   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   extract˙  s
+    c         C   sC   | d k r |  j É  } n  x! | D] } |  j | | | É q" Wd S(   sı   Extract all members from the archive to the current working
+           directory. `path' specifies a different directory to extract to.
+           `members' is optional and must be a subset of the list returned
+           by namelist().
+        N(   R>   R  R:  (   Rg   R9  t   membersRñ   R¡   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt
+   extractall  s    
+c   
+      C   s  | j  j d t j j É } t j j rH | j t j j t j j É } n  t j j | É d } t j j j d Ñ  | j t j j É DÉ É } t j j d k r2d } t	 | t
+ É r∆ d Ñ  | DÉ } n t j | d t
+ | É É } | j | É } d Ñ  | j t j j É DÉ } t j j j d	 Ñ  | DÉ É } n  t j j | | É } t j j | É } t j j | É } | rît j j | É rît j | É n  | j  d
+ d k rÕt j j | É s…t j | É n  | S|  j | d | Éè/ } t | d É è }	 t j | |	 É Wd
+ QXWd
+ QX| S(   sb   Extract the ZipInfo object 'member' to a physical
+           file on the path targetpath.
+        R]   i   c         s   s6   |  ], } | d  t  j j t  j j f k r | Vq d S(   R;   N(   Ra   R9  t   curdirt   pardir(   t   .0R  (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pys	   <genexpr>!  s    s   \s   :<>|"?*c         S   s%   i  |  ] } t  d  É t  | É ì q S(   t   _(   Rè   (   R?  Rò   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pys
+   <dictcomp>'  s   	 R@  c         s   s   |  ] } | j  d  É Vq d S(   t   .N(   t   rstrip(   R?  R  (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pys	   <genexpr>,  s    c         s   s   |  ] } | r | Vq d  S(   N(    (   R?  R  (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pys	   <genexpr>-  s    iˇˇˇˇRñ   RÎ   N(   R   Rc   Ra   R9  Rb   t   altsept
+   splitdriveR‹   t   splitRx   Ry   t   stringt	   maketransR   t	   translatet   normpatht   dirnamet   existst   makedirst   isdirt   mkdirR   R˘   t   shutilt   copyfileobj(
+   Rg   R8  t
+   targetpathRñ   t   arcnamet   illegalRâ   t	   upperdirst   sourcet   target(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR7    s4    !."c         C   s+  | j  |  j k r; d d l } | j d | j  d d Én  |  j d k rV t d Ç n  |  j sk t d	 Ç n  | j t k rç t	 rç t d
+ Ç n  | j t
+ t f k rÆ t d Ç n  |  j s'd } t
+ |  j É t k r€ d } n0 | j t k rÛ d
+ } n | j t k rd } n  | r't | d É Ç q'n  d S(   s6   Check for errors before writing a file to the archive.iˇˇˇˇNs   Duplicate name: %rR$  i   RË   RÈ   s    write() requires mode "w" or "a"s4   Attempt to write ZIP archive that was already closeds.   Compression requires the (missing) zlib modules(   That compression method is not supporteds   Files countt   Filesizes   Zipfile sizes    would require ZIP64 extensions(   RË   RÈ   (   R   RÔ   R&  R'  Rª   R~   R   RN   R   R∞   R   RÏ   R>   R   R   t   ZIP_FILECOUNT_LIMITRZ   Rj   RW   R   (   Rg   R  R&  t   requires_zip64(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   _writecheckB  s2    								c         C   s  |  j  s t d É Ç n  t j | É } t j | j É } t j | j É } | d d !} | d	 k rm | } n  t j
+ j t j
+ j | É d É } x* | d t j
+ t j f k rª | d } qí W| rœ | d 7} n  t | | É } | d d @d >| _ | rt | _ n$ | d	 k r |  j | _ n	 | | _ | j | _ d | _ |  j  j É  | _ |  j | É t |  _ | r”d | _ d | _ d | _ | j d O_ |  j j | É | |  j  | j! <|  j  j" | j# t$ É É d	 St% | d
+ É è
+}	 d | _ }
+ d | _ } |  j& o| j d t' k } |  j  j" | j# | É É | j t( k rat) j* t) j+ t) j, d É }
+ n d	 }
+ d } xx |	 j- d É } | sâPn  | t. | É } t/ | |
+ É d @}
+ |
+ r‘|
+ j0 | É } | t. | É } n  |  j  j" | É qpWWd	 QX|
+ r,|
+ j1 É  } | t. | É } |  j  j" | É | | _ n	 | | _ |
+ | _ | | _ | rê|  j& rê| t' k rrt d É Ç n  | t' k rêt d É Ç qên  |  j  j É  } |  j  j2 | j d É |  j  j" | j# | É É |  j  j2 | d É |  j j | É | |  j  | j! <d	 S(   sL   Put the bytes from filename into the archive under the name
+        arcname.s7   Attempt to write to ZIP archive that was already closedi    i   i   R]   iˇˇ  l    i   NR   gÕÃÃÃÃÃ?iÒˇˇˇi   i   l   ˇˇ s*   File size has increased during compressings-   Compressed size larger than uncompressed sizei    (3   R   R~   Ra   t   statt   S_ISDIRt   st_modet   timet	   localtimet   st_mtimeR>   R9  RI  RD  Rb   RC  R   RV   R   RN   RÒ   t   st_sizeRZ   RS   R<   RW   RZ  R
+   RÌ   RY   RX   R   RB   RÔ   R   t   writeRv   R   R   RÏ   Rj   R   R∞   t   compressobjt   Z_DEFAULT_COMPRESSIONt   DEFLATEDR   R   Ræ   t   compressR‡   R   (   Rg   R   RR  RN   t   stRM  t   mtimeRM   R  R   RX   RY   Rp   t   cmprRZ   R’   t   position(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRb  ^  sñ    	
+	"
+		
+				
+
+				c         C   sB  t  | t É s} t d | d t j t j É  É d  É } |  j | _ | j d d k rq d | _ | j d O_ qÉ d | _ n | } |  j sõ t	 d	 É Ç n  | d k	 r≥ | | _ n  t | É | _ |  j j
+ É  | _ |  j | É t |  _ t | É d
+ @| _ | j t k rRt j t j t j d É } | j | É | j É  } t | É | _ n | j | _ | j t k py| j t k } | rõ|  j rõt d É Ç n  |  j j | j  | É É |  j j | É | j! d
+ @r| r›d n d } |  j j t" j# | | j | j | j É É n  |  j j É  |  j$ j% | É | |  j& | j <d S(   s¨   Write a file into the archive.  The contents is the string
+        'bytes'.  'zinfo_or_arcname' is either a ZipInfo instance or
+        the name of the file in the archive.R   RM   i   iˇˇˇˇR]   i˝A  i   iÄ  s7   Attempt to write to ZIP archive that was already closedl   ˇˇ iÒˇˇˇs'   Filesize would require ZIP64 extensionsi   s   <LQQs   <LLLNi  ˝Ai  Ä('   Rx   R   R^  R_  RÒ   RN   R   RV   R   R~   R>   R   RZ   R<   RW   RZ  R
+   RÌ   Ræ   RX   R   R∞   Rc  Rd  Re  Rf  R‡   RY   Rj   RÏ   R   Rb  Rv   RS   R   Rk   R   RB   RÔ   (   Rg   t   zinfo_or_arcnameR3  RN   R  t   coRp   Rt   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   writestr∫  sL    		
+	
+
+c         C   s   |  j  É  d S(   s2   Call the "close()" method in case the user forgot.N(   R„   (   Rg   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   __del__Ì  s    c         C   s÷  |  j  d k r d Szì|  j d k r•|  j r•|  j  j É  } xŒ|  j D]√} | j } | d d d >| d d >B| d	 B} | d
+ d >| d d >B| d d	 B} g  } | j t k s∆ | j	 t k rı | j
+ | j É | j
+ | j	 É d
+ } d
+ } n | j } | j	 } | j |  j }	 |	 t k r9| j
+ |	 É d
+ }	 n  | j
+ }
+ | r£t j d d t | É d d t | É | å |
+ }
+ t d | j É } t d | j É } n | j } | j } yÖ | j É  \ }
+ } t j t t | | j | | j | | j | | | j | | t |
+ É t |
+ É t | j É d | j | j |	 É } Wnä t k
+ r∆t j  t t | | j | | j | j! | j | | | j | | t | j" É t |
+ É t | j É d | j | j |	 f IJÇ  n X|  j  j# | É |  j  j# |
+ É |  j  j# |
+ É |  j  j# | j É qG W|  j  j É  } t |  j É } | | } | |  j } d } | t$ k r^d } n* | t k rsd } n | t k ràd } n  | rB|  j% s™t& | d É Ç n  t j t' t( d d d d d | | | | É } |  j  j# | É t j t) t* d | d É } |  j  j# | É t+ | d É } t+ | d
+ É } t+ | d
+ É } n  t j t, t- d d | | | | t |  j. É É	 } |  j  j# | É |  j  j# |  j. É |  j  j/ É  n  Wd |  j  } d |  _  |  j0 s—| j1 É  n  Xd S(   sJ   Close the file, and for mode "w" and "a" write the ending
+        records.NRË   RÈ   i    iº  i	   i   i   i   i   i   i   l   ˇˇ s   <HHt   Qi   i-   s   Files counts   Central directory offsets   Central directory sizes    would require ZIP64 extensionsi,   iˇˇ  (   RË   RÈ   (2   R   R>   Rª   RÌ   R<   R   RM   RZ   Rj   RY   RB   RW   R˜   RO   R   Rk   R   RC   RQ   R2   Rm   R  R
+  RP   RR   RN   RX   RK   RU   RV   t   DeprecationWarningRe   t   stderrRS   R   Rb  RX  RÏ   R   R    R!   R   R   R€   R@   R?   RÚ   R‡   RÙ   R„   (   Rg   t   pos1R  Rq   Rr   Rs   RO   RZ   RY   RW   t
+   extra_dataRQ   R2   R   RS   R  t   pos2t   centDirCountt   centDirSizet
+   centDirOffsetRY  t   zip64endrect   zip64locrecR+   R   (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR„   Ò  s∏    	&&			
+					
+
+
+!	
+
+				
+			N(   R	   R
+   R   R>   R   R   R   Ri   R˝   R  Rˆ   R  R  R  R  R"  R#  t   propertyRK   t   setterR   R   R:  R<  R7  RZ  Rb  Rm  Rn  R„   (    (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR   ƒ  s0   
+I			F				
+			O	.	\3	c           B   s#   e  Z d  Z d d Ñ Z d Ñ  Z RS(   sD   Class to create ZIP archives with Python library files and packages.R;   c   
+      C   s‡  t  j j | É \ } } t  j j | É r|t  j j | d É } t  j j | É r | rj d | | f } n | } |  j rç d G| Gd G| GHn  |  j | d d !| É \ } } |  j r¡ d G| GHn  |  j | | É t  j	 | É } | j
+ d É xâ| D]œ }	 t  j j | |	 É }
+ t  j j |	 É \ } } t  j j |
+ É rpt  j j t  j j |
+ d É É r√|  j |
+ | É q√qÙ | d k rÙ |  j |
+ d d !| É \ } } |  j r∞d G| GHn  |  j | | É qÙ qÙ Wq‹|  j rﬂd	 G| GHn  x˙ t  j	 | É D]Ü }	 t  j j | |	 É }
+ t  j j |	 É \ } } | d k rÔ|  j |
+ d d !| É \ } } |  j rbd G| GHn  |  j | | É qÔqÔWn` | d d k ròt
+ d
+ Ç n  |  j | d d !| É \ } } |  j rÃd G| GHn  |  j | | É d S(
+   s,  Add all files from "pathname" to the ZIP archive.
+
+        If pathname is a package directory, search the directory and
+        all package subdirectories recursively for all *.py and enter
+        the modules into the archive.  If pathname is a plain
+        directory, listdir *.py and enter all modules.  Else, pathname
+        must be a Python *.py file and the module will be put into the
+        archive.  Added modules are always module.pyo or module.pyc.
+        This method will compile the module.py into module.pyc if
+        necessary.
+        s   __init__.pys   %s/%ss   Adding package int   asi    i˝ˇˇˇt   Addings   .pys   Adding files from directorys.   Files added with writepy() must end with ".py"s   Adding fileN(   Ra   R9  RE  RM  R‹   t   isfileRÓ   t
+   _get_codenameRb  t   listdirt   removet   splitextt   writepyR~   (
+   Rg   t   pathnamet   basenamet   dirRº   t   initnameR0  RR  t   dirlistR   R9  t   roott   ext(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRÉ  c  sZ    		
+
+!					c   
+      C   s8  | d } | d } | d } t  j j | É r] t  j | É j t  j | É j k r] | } n¢ t  j j | É sî t  j | É j t  j | É j k  r˘ d d l } |  j rµ d G| GHn  y | j | | d t	 É Wn | j
+ k
+ rÔ } | j GHn X| } n | } t  j j | É d }	 | r.d | |	 f }	 n  | |	 f S(	   s   Return (filename, archivename) for the path.
+
+        Given a module name path, return the correct file path and
+        archive name, compiling if necessary.  For example, given
+        /python/lib/string, return (/python/lib/string.pyc, string).
+        s   .pys   .pycs   .pyoiˇˇˇˇNt	   Compilingi   s   %s/%s(
+   Ra   R9  R~  R[  R`  t
+   py_compileRÓ   RÊ   R>   R
+   t   PyCompileErrort   msgRE  (
+   Rg   RÑ  RÖ  t   file_pyt   file_pyct   file_pyoR0  Rå  t   errt   archivename(    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR  §  s*    
+
+
+$	$		(   R	   R
+   R   RÉ  R  (    (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyR   `  s   Ac      	      sô  d d  l  } | j d É } |  d  k r7 t j d }  n  |  sN |  d d k rc | GHt j d É n  |  d d k r√ t |  É d	 k rö | GHt j d É n  t |  d d
+ É è } | j É  Wd  QXn“|  d d k rAt |  É d	 k r˙ | GHt j d É n  t |  d d
+ É è } | j	 É  } Wd  QX| r9d j
+ | É GHn  d GHnT|  d d k r®t |  É d
+ k rx| GHt j d É n  t |  d d
+ É è } | j |  d	 É Wd  QXnÌ |  d d k rït |  É d
+ k  rﬂ| GHt j d É n  á  f d Ü  â  t |  d d d t Éèâ } x |  d	 D]s } t
+ j j | É } | sTt
+ j j t
+ j j | É É } n  | d t
+ j t
+ j f k rxd } n  à  | | | É qWWd  QXn  d  S(   NiˇˇˇˇsE          Usage:
+            zipfile.py -l zipfile.zip        # Show listing of a zipfile
+            zipfile.py -t zipfile.zip        # Test if a zipfile is valid
+            zipfile.py -e zipfile.zip target # Extract zipfile into target dir
+            zipfile.py -c zipfile.zip src ... # Create zipfile from sources
+        i   i    s   -ls   -cs   -es   -ti   RÁ   s.   The following enclosed file is corrupted: {!r}s   Done testingi   c            s¢   t  j j | É r( |  j | | t É nv t  j j | É rû | rS |  j | | É n  xH t  j | É D]4 } à  |  t  j j | | É t  j j | | É É qc Wn  d  S(   N(   Ra   R9  R~  Rb  R   RM  RÄ  R‹   (   t   zfR9  t   zippatht   nm(   t   addToZip(    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyRó  Ò  s    RË   R˙   R;   (   s   -ls   -cs   -es   -t(   t   textwrapt   dedentR>   Re   t   argvt   exitR   R   R  R  t   formatR<  R
+   Ra   R9  RÖ  RJ  R=  R>  (   t   argsRò  t   USAGERî  t   badfileR9  Rï  (    (   Ró  sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   main√  sT    	!	t   __main__(j   R   Ra   R^  Re   RO  t   binasciiR  R[  R«   RÂ   RF  R∞   Ræ   t   ImportErrorR>   t   __all__t	   ExceptionR    R   R   Rj   RX  R%  R   R   R@   R?   Rl   R=   R"   R#   R$   R%   R&   R'   R(   RE   R  R  R  R
+  R  R	  t   _CD_CREATE_VERSIONt   _CD_CREATE_SYSTEMt   _CD_EXTRACT_VERSIONt   _CD_EXTRACT_SYSTEMt
+   _CD_FLAG_BITSt   _CD_COMPRESS_TYPEt   _CD_TIMEt   _CD_DATEt   _CD_CRCt   _CD_COMPRESSED_SIZEt   _CD_UNCOMPRESSED_SIZER  R  R
+  t   _CD_DISK_NUMBER_STARTt   _CD_INTERNAL_FILE_ATTRIBUTESt   _CD_EXTERNAL_FILE_ATTRIBUTESR  Rn   Ro   R)  R*  t   _FH_EXTRACT_VERSIONt   _FH_EXTRACT_SYSTEMt   _FH_GENERAL_PURPOSE_FLAG_BITSt   _FH_COMPRESSION_METHODt   _FH_LAST_MOD_TIMEt   _FH_LAST_MOD_DATEt   _FH_CRCt   _FH_COMPRESSED_SIZEt   _FH_UNCOMPRESSED_SIZER+  R,  R   R   R   R    R!   R   t   _CD64_SIGNATUREt   _CD64_DIRECTORY_RECSIZEt   _CD64_CREATE_VERSIONt   _CD64_EXTRACT_VERSIONt   _CD64_DISK_NUMBERt   _CD64_DISK_NUMBER_STARTt   _CD64_NUMBER_ENTRIES_THIS_DISKt   _CD64_NUMBER_ENTRIES_TOTALt   _CD64_DIRECTORY_SIZEt   _CD64_OFFSET_START_CENTDIRR   R   R:   R   t   objectR   RÜ   R≥   R»   R®   R   R   R†  R	   (    (    (    sR   C:\Users\talop\AppData\Roaming\VAVOO\addons\kodi.xbmc.python\zipop.pyt   <module>   sÏ   <$
+
+
+			+	=û<
+–ˇ ˇ ûcB

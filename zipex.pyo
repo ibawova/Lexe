@@ -1,0 +1,448 @@
+ó
+lŠac        	   @   s7  d  d l  Z  d  d l Z d  d l Z d  d l Z d  d l Z d  d l Z d  d l Z d  d l Z d  d l Z d  d l	 Z	 d  d l
+ Z
+ y d  d l Z e j Z Wn  e
+ k
+ r¿ e Z e j Z n Xd d d d d d d d	 d
+ g	 Z d e f d „  ƒ  YZ d
+ e f d „  ƒ  YZ e Z d
+ d >d
+ Z d
+ d >d
+ Z d
+ d >d
+ Z d Z d Z d Z d Z e  j e ƒ Z d Z d
+ Z d Z d Z  d Z! d Z" d Z# d Z$ d Z% d Z& d Z' d Z( e  j e' ƒ Z) d Z* d
+ Z+ d Z, d Z- d Z. d Z/ d Z0 d Z1 d Z2 d Z3 d Z4 d Z5 d Z6 d  Z7 d! Z8 d" Z9 d Z: d# Z; d$ Z< d% Z= d& Z> e  j e= ƒ Z? d Z@ d
+ ZA d ZB d ZC d ZD d ZE d ZF d ZG d ZH d ZI d ZJ d ZK d' ZL d( ZM e  j eL ƒ ZN d) ZO d* ZP e  j eO ƒ ZQ d ZR d
+ ZS d ZT d ZU d ZV d ZW d ZX d ZY d ZZ d Z[ d+ „  Z\ d, „  Z] d- „  Z^ d. „  Z_ d e` f d/ „  ƒ  YZa d0 f  d1 „  ƒ  YZb i d2 d 6d3 d
+ 6d4 d 6d4 d 6d4 d 6d4 d 6d5 d 6d6 d 6d7 d 6d8 d 6d5 d 6d9 d 6d: d! 6d; d$ 6d< d= 6d> d? 6d@ dA 6Zc dB e jd f dC „  ƒ  YZe d e` f dD „  ƒ  YZf d	 ef f dE „  ƒ  YZg e dF „ Zh ei dG k r3eh ƒ  n  d S(H   iÿÿÿÿNt
+   BadZipfilet   errort
+   ZIP_STOREDt   ZIP_DEFLATEDt
+   is_zipfilet   ZipInfot   ZipFilet	   PyZipFilet   LargeZipFilec           B   s   e  Z RS(    (   t   __name__t
+   __module__(    (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR       s   c           B   s   e  Z d  Z RS(   su   
+    Raised when writing a zipfile, the zipfile requires ZIP64 extensions
+    and those extensions are disabled.
+    (   R	   R
+   t   __doc__(    (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR      s   i   i   i   i    i   s   <4s4H2LHs   PKi   i   i   i   i   i   i	   s   <4s4B4HL2L5H2Ls   PKi
+   i   i   i
+   i   i   i   i   s   <4s2B4HL2L2Hs   PKs   <4sLQLs   PKs
+   <4sQ2H2L4Qs   PKc         C   s,   y t  |  ƒ r t SWn t k
+ r' n Xt S(   N(   t   _EndRecDatat   Truet   IOErrort   False(   t   fp(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   _check_zipfile…   s    
+c         C   sp   t  } yR t |  d ƒ r* t d |  ƒ } n- t j |  d d d ƒ } t | ƒ } Wd QXWn t k
+ rk n X| S(	   sˆ   Quickly see if a file is a ZIP file by checking the magic number.
+
+    The filename argument may be a file or file-like object too.
+    t   readR   t   rbt	   bufferingi   i   Ni    (   R   t   hasattrR   t   iot   openR   (   t   filenamet   resultR   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR      s    
+c      
+   C   sn  y |  j  | t d ƒ Wn t k
+ r, | SX|  j t ƒ } t | ƒ t k rR | St j t | ƒ \ } } } } | t k r€ | S| d k s˜ | d k r§ t	 d ƒ ‚ n  |  j  | t t
+ d ƒ |  j t
+ ƒ } t | ƒ t
+ k rä | St j t | ƒ \
+ } } }	 }
+ } } }
+ } } } | t k r$| S| | t
+ <| | t <| | t <|
+ | t <| | t <| | t <| | t <| S(   sM   
+    Read the ZIP64 end-of-archive records and use that to update endrec
+    i   i    i   s3   zipfiles that span multiple disks are not supported(   t   seekt   sizeEndCentDir64LocatorR   R   t   lent   structt   unpackt   structEndArchive64Locatort   stringEndArchive64LocatorR    t   sizeEndCentDir64t   structEndArchive64t   stringEndArchive64t   _ECD_SIGNATUREt   _ECD_DISK_NUMBERt   _ECD_DISK_STARTt   _ECD_ENTRIES_THIS_DISKt   _ECD_ENTRIES_TOTALt	   _ECD_SIZEt   _ECD_OFFSET(   t   fpint   offsett   endrect   datat   sigt   disknot   relofft   diskst   szt   create_versiont   read_versiont   disk_numt   disk_dirt   dircountt	   dircount2t   dirsizet	   diroffset(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt
+   _EndRecData64   s6    
+0
+
+
+
+
+
+
+c   	      C   s¾  |  j  d d ƒ |  j ƒ  } y |  j  t d ƒ Wn t k
+ rE d	 SX|  j ƒ  } t | ƒ t k rÔ | d d !t k rÔ | d d k rÔ t j	 t
+ | ƒ } t | ƒ } | j d ƒ | j | t ƒ t
+ |  t | ƒ St | d
+ t d ƒ } |  j  | d ƒ |  j ƒ  } | j t ƒ } | d k rº| | | t !} t | ƒ t k rId	 St t j	 t
+ | ƒ ƒ } | t } | | t | t | !} | j | ƒ | j | | ƒ t
+ |  | | | | ƒ Sd	 S(   sÔ   Return data from the "End of Central Directory" record, or None.
+
+    The data is a list of the nine items in the ZIP "End of central dir"
+    record followed by a tenth item, the file seek offset of this record.i    i   i   iþÿÿÿs     t    i   i   Ni   (   R   t   tellt   sizeEndCentDirR   t   NoneR   R   t   stringEndArchiveR   R   t   structEndArchivet   listt   appendR<   t   maxt   rfindt   _ECD_COMMENT_SIZE(	   R+   t   filesizeR.   R-   t   maxCommentStartt   startt   recDatat   commentSizet   comment(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR   È   s>    
+
+
+
+c           B   sJ   e  Z d  Z d Z d d d „ Z d d „ Z d „  Z d „  Z d „  Z	 RS(    s>   Class with attributes describing each file in the ZIP archive.t
+   orig_filenameR   t	   date_timet
+   compress_typeRM   t   extrat
+   create_systemR4   t   extract_versiont   reservedt	   flag_bitst   volumet
+   internal_attrt
+   external_attrt
+   header_offsett   CRCt
+   compress_sizet	   file_sizet	   _raw_timet   NoNamei¼  i   i    c         C   s#  | |  _  | j t d ƒ ƒ } | d k r: | d | !} n  t j d k rp t j | k rp | j t j d ƒ } n  | |  _ | |  _ | d d k  r¡ t d ƒ ‚ n  t	 |  _
+ d |  _ d |  _ t
+ j d k r× d |  _ n	 d |  _ d |  _ d |  _ d |  _ d |  _ d |  _ d |  _ d |  _ d  S(	   Ni    t   /i¼  s+   ZIP does not support timestamps before 1980R=   t   win32i   i   (   RN   t   findt   chrt   ost   sept   replaceR   RO   t
+   ValueErrorR   RP   RM   RQ   t   syst   platformRR   R4   RS   RT   RU   RV   RW   RX   (   t   selfR   RO   t	   null_byte(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   __init__  s.    													c   
+      C   sÅ  |  j  } | d d d >| d d >B| d B} | d d >| d	 d >B| d d B} |  j d
+ @rs d } } } n |  j } |  j } |  j } |  j } | d k r¾ | t k p¸ | t k } n  | rù d }	 | t j	 |	 d t j
+ |	 ƒ d	 | | ƒ } n  | t k s| t k r_| s&t d ƒ ‚ n  d
+ } d
+ } t d |  j
+ ƒ |  _
+ t d |  j
+ ƒ |  _ n  |  j ƒ  \ }
+ } t j	 t t |  j
+ |  j | |  j | | | | | t |
+ ƒ t | ƒ ƒ
+ } | |
+ | S(   s'   Return the per-file header as a string.i    i¼  i	   i   i   i   i   i   i   i   s   <HHQQs'   Filesize would require ZIP64 extensionsl   ÿÿ i-   N(   RO   RU   RZ   R[   R\   RQ   R@   t   ZIP64_LIMITR   t   packt   calcsizeR   RE   RS   R4   t   _encodeFilenameFlagst   structFileHeadert   stringFileHeaderRT   RP   R   (
+   Ri   t   zip64t   dtt   dosdatet   dostimeRZ   R[   R\   RQ   t   fmtR   RU   t   header(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt
+   FileHeaderH  s:    	&&
+				#c         C   st   t  |  j t ƒ r` y |  j j d ƒ |  j f SWqp t k
+ r\ |  j j d ƒ |  j d Bf SXn |  j |  j f Sd  S(   Nt   asciis   utf-8i   (   t
+   isinstanceR   t   unicodet   encodeRU   t   UnicodeEncodeError(   Ri   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRo   o  s    
+!c         C   s(   |  j  d @r |  j j d ƒ S|  j Sd  S(   Ni   s   utf-8(   RU   R   t   decode(   Ri   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   _decodeFilenamex  s    
+c         C   sƒ  |  j  } t j } xjt | ƒ d k r~| d | d  ƒ \ } } | d k rm| d k rq | d | d d !ƒ } no | d k r– | d | d d	 !ƒ } nJ | d
+ k r» | d | d d !ƒ } n% | d
+ k rÐ d } n t d | f ‚ d
+ } |  j d k r| | |  _ | d 7} n  |  j d k r8| | |  _ | d 7} n  |  j d k rm|  j } | | |  _ | d 7} qmn  | | d } q Wd  S(   Ni   s   <HHi   i   s   <QQQi   i   s   <QQi   i   s   <Qi   i    s   Corrupt extra field %sl   ÿÿÿÿ l   ÿÿ (    (   l   ÿÿÿÿ l   ÿÿ (   RQ   R   R   R   t   RuntimeErrorR\   R[   RY   (   Ri   RQ   R   t   tpt   lnt   countst   idxt   old(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   _decodeExtra~  s4    			
+
+
+
+	
+(   RN   R   RO   RP   RM   RQ   RR   R4   RS   RT   RU   RV   RW   RX   RY   RZ   R[   R\   R]   (   i¼  i   i   i    i    i    N(
+   R	   R
+   R   t	   __slots__Rk   R@   Rx   Ro   R   R†   (    (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR     s2                     *'			t
+   _ZipDecrypterc           B   sD   e  Z d  Z d „  Z e ƒ  Z d „  Z d „  Z d „  Z d „  Z RS(   s  Class to handle decryption of files stored within a ZIP archive.
+
+    ZIP supports a password-based form of encryption. Even though known
+    plaintext attacks have been found against it, it is still useful
+    to be able to get data out of such a file.
+
+    Usage:
+        zd = _ZipDecrypter(mypwd)
+        plain_char = zd(cypher_char)
+        plain_text = map(zd, cypher_text)
+    c          C   s‚   d }  d g d } xh t  d ƒ D]Z } | } xA t  d ƒ D]3 } | d @r^ | d ?d @|  A} q9 | d ?d @} q9 W| | | <q  W| S(   sâ   Generate a CRC-32 table.
+
+        ZIP encryption uses the CRC32 one-byte primitive for scrambling some
+        internal keys. We noticed that a direct implementation is faster than
+        relying on binascii.crc32().
+        l    q[ i    i   i   i   iÿÿÿ(   t   range(   t   polyt   tablet   it   crct   j(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   _GenerateCRCTable°  s    
+
+c         C   s%   | d ?d @|  j  | t | ƒ Ad @AS(   s(   Compute the CRC32 primitive on one byte.i   iÿÿÿ iÿ   (   t   crctablet   ord(   Ri   t   chR   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   _crc32Ä  s    c         C   s=   d |  _  d |  _ d |  _ x | D] } |  j | ƒ q" Wd  S(   NixV4i‰gE#ixV4(   t   key0t   key1t   key2t   _UpdateKeys(   Ri   t   pwdt   p(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRk   È  s
+    			
+c         C   sx   |  j  | |  j ƒ |  _ |  j |  j d @d @|  _ |  j d d d @|  _ |  j  t |  j d ?d @ƒ |  j ƒ |  _ d  S(   Niÿ   l   ÿÿ i„i   i   (   R“   R”   R•   Rb   R–   (   Ri   t   c(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR—   Ï  s    c         C   sP   t  | ƒ } |  j d B} | | | d Ad ?d @A} t | ƒ } |  j | ƒ | S(   s   Decrypt a single character.i   i   i   iÿ   (   R‘   R–   Rb   R—   (   Ri   Rš   t   k(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   __call__Õ  s    
+
+(	   R	   R
+   R   R   R   R“   Rk   R—   Rœ   (    (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRˆ   £  s   					t   storet   shrinkt   reducet   implodet   tokenizet   deflatet	   deflate64t   bzip2t   lzmat   terset   lz77i   t   wavpackia   t   ppmdib   t
+   ZipExtFilec           B   s„   e  Z d  Z d d >Z d Z e j d ƒ Z d e	 d „ Z
+ d d „ Z d d „ Z d	 „  Z
+ d d
+ „ Z d „  Z d „  Z d
+ „  Z RS(   sZ   File-like object for reading an archive member.
+       Is returned by ZipFile.open().
+    i   i   i   s*   ^(?P<chunk>[^\r\n]+)|(?P<newline>\n|\r\n?)c         C   sf  | |  _  | |  _ | |  _ | j |  _ | j |  _ | j |  _ |  j t k rc t	 j
+ d ƒ |  _ n\ |  j t k r¿ t
+ j |  j ƒ } | r¦ t d |  j | f ƒ ‚ q¿ t d |  j f ƒ ‚ n  d |  _ d |  _ d |  _ d | k |  _ d  |  _ |  j d  k	 r|  j d 8_ n  | |  _ | j |  _ t | d ƒ rY| j |  _ t d ƒ d	 @|  _ n	 d  |  _ d  S(
+   Niñÿÿÿs   compression type %d (%s)s   compression type %dR=   i    t   Ui   RZ   l   ÿÿ (   t   _fileobjt
+   _decryptert   _close_fileobjRP   t   _compress_typeR[   t   _compress_sizet   _compress_leftR   t   zlibt
+   decompressobjt
+   _decompressorR   t   compressor_namest   gett   NotImplementedErrort   _unconsumedt   _readbuffert   _offsett
+   _universalR@   t   newlinest   modeR   t   nameR   RZ   t
+   _expected_crct   crc32t   _running_crc(   Ri   t   fileobjR½   t   zipinfot	   decryptert
+   close_fileobjt   descr(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRk     s4    								iÿÿÿÿc         C   s£  |  j  ra | d k  ra |  j j d |  j ƒ d } | d k ra |  j |  j | !} | |  _ | Sn  |  j  s} t j j |  | ƒ Sd } x| d k  s¤ t | ƒ | k  rž|  j d ƒ } | d k rÃ | S|  j	 j
+ | ƒ } | j d ƒ } | d k	 rJ|  j
+ d k rg  |  _
+ n  | |  j
+ k r-|  j
+ j | ƒ n  |  j t | ƒ 7_ | d S| j d ƒ } | d k r|| | t | ƒ  } n  |  j t | ƒ 7_ | | 7} q† W| S(	   sr   Read and return a line from the stream.
+
+        If limit is specified, at most limit bytes will be read.
+        i    s   
+i   R=   i   t   newlinet   chunkN(   R»   R¹   Ra   Rº   R   t   BufferedIOBaset   readlineR   t   peekt   PATTERNt   searcht   groupR@   R¼   RD   (   Ri   t   limitRŒ   t   linet	   readaheadt   matchRÇ   RÈ   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRÊ   *  s8    		!
+c         C   s“   | t  |  j ƒ |  j k r{ |  j | ƒ } t  | ƒ |  j k rc | |  j |  j |  _ d |  _ q{ |  j t  | ƒ 8_ n  |  j |  j |  j d !S(   s6   Returns buffered bytes without advancing the position.i    i   (   R   R¹   Rº   R   (   Ri   t   nRÈ   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRË   \  s    c         C   s   t  S(   N(   R
+   (   Ri   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   readablei  s    c         C   sœ   d } | d k r d } n  xz t r— | d k  rB |  j | ƒ } n2 | t | ƒ k rp |  j | t | ƒ ƒ } n | St | ƒ d k rŠ | S| | 7} q Wd S(   s   Read and return up to n bytes.
+        If the argument is omitted, None, or negative, data is read and returned until EOF is reached..
+        R=   iÿÿÿÿi    N(   R@   R
+   t   read1R   (   Ri   RÓ   t   bufR.   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR   l  s    		c         C   s^   |  j  d  k r d  St | |  j ƒ d @|  _ | rZ |  j |  j  k rZ t d |  j ƒ ‚ n  d  S(   Nl   ÿÿ s   Bad CRC-32 for file %r(   R¿   R@   RÀ   RÁ   R    R¾   (   Ri   t   newdatat   eof(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   _update_crc~  s
+    c         C   sg  | d k  s | d k r$ |  j } n  t |  j ƒ |  j } |  j d k rW| | t |  j ƒ k rW| | t |  j ƒ } t | |  j ƒ } t	 | |  j ƒ } |  j
+ j | ƒ } |  j t | ƒ 8_ | r÷ |  j d k	 r÷ d j
+ t |  j | ƒ ƒ } n  |  j t k rE|  j | d |  j d k ƒ|  j |  j | |  _ d |  _ qW|  j | 7_ n  t |  j ƒ d k r4| | k r4|  j t k r4|  j j |  j t | | |  j ƒ ƒ } |  j j |  _ t |  j ƒ d k oß|  j d k } | rþ| |  j j ƒ  7} n  |  j | d | ƒ|  j |  j | |  _ d |  _ n  |  j |  j |  j | !} |  j t | ƒ 7_ | S(   s7   Read up to n bytes with at most one read() system call.i    R=   RØ   N(   R@   t   MAX_NR   R¹   Rº   R±   R¸   RE   t
+   MIN_READ_SIZEt   minR¬   R   R­   t   joint   mapR¯   R   RÙ   R   R´   t
+   decompresst   unconsumed_tailt   flush(   Ri   RÓ   t   len_readbuffert   nbytesR.   RØ   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRÕ   ˆ  s>    (!	$c         C   s8   z |  j  r |  j j ƒ  n  Wd  t t |  ƒ j ƒ  Xd  S(   N(   R®   R¬   t   closet   superRª   (   Ri   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRä   ¼  s    	i   N(   R	   R
+   R   RÚ   RÛ   t   ret   compileRÌ   R@   R   Rk   RÊ   RË   RÔ   R   RÙ   RÕ   Rä   (    (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRª   ô  s   
+'2
+		
+	4c           B   s  e  Z d  Z d Z d e e d „ Z d „  Z d „  Z	 d „  Z
+ d „  Z d „  Z d „  Z
+ d	 „  Z d
+ „  Z d „  Z e d „  ƒ Z e j d
+ „  ƒ Z d d „ Z d d d „ Z d d d „ Z d d d d „ Z d „  Z d „  Z d d d „ Z d d „ Z d „  Z d „  Z RS(   sd   Class with methods to open, read, write, close, list zip files.
+
+    z = ZipFile(file, mode="r", compression=ZIP_STORED, allowZip64=False)
+
+    file: Either the path to the file, or a file-like object.
+          If it is a path, the file will be opened and closed by ZipFile.
+    mode: The mode can be either read "r", write "w" or append "a".
+    compression: ZIP_STORED (no compression) or ZIP_DEFLATED (requires zlib).
+    allowZip64: if True ZipFile will create files with ZIP64 extensions when
+                needed, otherwise it will raise an exception when this would
+                be necessary.
+
+    t   rc         C   s’  | d k r t  d ƒ ‚ n  | t k r* n* | t k rK t sT t  d ‚ qT n	 t  d ‚ | |  _ t |  _ d |  _ i  |  _ g  |  _	 | |  _
+ | j d d	 ƒ d |  _ } d |  _ d	 |  _ t | t ƒ rjd |  _ | |  _ i d
+ d 6d d 6d d 6} y# t j | | | d
+ d ƒ|  _ Wq‘t k
+ rf| d k r`d } } t j | | | d
+ d ƒ|  _ qg‚  q‘Xn' d |  _ | |  _ t | d d ƒ |  _ yÈ | d k r­|  j ƒ  n« | d k r×t |  _ |  j j ƒ  |  _ n | d k rLy$ |  j ƒ  |  j j |  j d ƒ WqXt k
+ rH|  j j d d ƒ t |  _ |  j j ƒ  |  _ qXXn t  d ƒ ‚ Wn2 |  j } d |  _ |  j s‡| j  ƒ  n  ‚  n Xd S(   s>   Open the ZIP file with mode read "r", write "w" or append "a".Rè   t   wt   as(   ZipFile() requires mode "r", "w", or "a"s.   Compression requires the (missing) zlib modules(   That compression method is not supportedi    t   bR=   R   t   wbs   r+bR   i   i   i   R¾   i   s   Mode must be "r", "w" or "a"N(   Rè   Ré   Rê   i    i    (!   R€   R   R   R²   t   _allowZip64R   t
+   _didModifyt   debugt
+   NameToInfot   filelistt   compressionRe   R½   R@   R˜   t   _commentRz   t
+   basestringt   _filePassedR   R   R   R   R   t   getattrt   _RealGetContentsR
+   R>   t   _start_diskR   t	   start_dirR    Rä   (   Ri   t   fileR½   Rò   t
+   allowZip64t   keyt   modeDictR   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRk   Õ  sj    											#
+
+"
+		
+	
+
+				
+c         C   s   |  S(   N(    (   Ri   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt	   __enter__  s    c         C   s   |  j  ƒ  d  S(   N(   Rä   (   Ri   t   typet   valuet	   traceback(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   __exit__!  s    c   
+      C   s\  |  j  } y t | ƒ } Wn t k
+ r8 t d ƒ ‚ n X| sK t d ‚ n  |  j d k rb | GHn  | t } | t } | t |  _ | t	 | | |  _
+ | t t k r¾ |  j
+ t
+ t 8_
+ n  |  j d k rñ |  j
+ | } d G| G| G|  j
+ GHn  | |  j
+ |  _ | j |  j d ƒ | j | ƒ } t j | ƒ } d } x| | k  rW| j t ƒ } t | ƒ t k rwt d ƒ ‚ n  t j t | ƒ } | t t k r¨t d ƒ ‚ n  |  j d k r¿| GHn  | j | t ƒ }	 t |	 ƒ }
+ | j | t ƒ |
+ _ | j | t ƒ |
+ _  | t! |
+ _" | d d !\ |
+ _# |
+ _$ |
+ _% |
+ _& |
+ _' |
+ _( } } |
+ _) |
+ _* |
+ _+ | d	 d
+ !\ |
+ _, |
+ _- |
+ _. | |
+ _/ | d ?d | d
+ ?d	 @| d @| d ?| d
+ ?d @| d @d f |
+ _0 |
+ j1 ƒ  |
+ j" |  j
+ |
+ _" |
+ j2 ƒ  |
+ _3 |  j4 j5 |
+ ƒ |
+ |  j6 |
+ j3 <| t | t | t | t } |  j d k r;d G| GHq;q;Wd S(   s/   Read in the table of contents for the ZIP file.s   File is not a zip filei   i   s   given, inferred, offseti    s   Truncated central directorys&   Bad magic number for central directoryi   i   i   i	   i¼  i   i   i   i?   t   totalN(7   R   R   R   R    Rï   R)   R*   t   _ECD_COMMENTRó   t
+   _ECD_LOCATIONRø   R$   R#   R!   R   Rù   R   R   t	   cStringIOt   StringIOt   sizeCentralDirR   R   R   t   structCentralDirt
+   _CD_SIGNATUREt   stringCentralDirt   _CD_FILENAME_LENGTHR   t   _CD_EXTRA_FIELD_LENGTHRQ   t   _CD_COMMENT_LENGTHRM   t   _CD_LOCAL_HEADER_OFFSETRY   R4   RR   RS   RT   RU   RP   RZ   R[   R\   RV   RW   RX   R]   RO   R†   R   R   Rñ   RD   Rð   (
+   Ri   R   R-   t   size_cdt	   offset_cdt   inferredR.   R  t   centdirR   t   xt   tt   d(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR÷   $  sd    	
+
+
+
+
+
+I	&
+"c         C   s.   g  } x! |  j  D] } | j | j ƒ q W| S(   s+   Return a list of file names in the archive.(   Rñ   RD   R   (   Ri   t   lR.   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   namelistj  s    c         C   s   |  j  S(   sJ   Return a list of class ZipInfo instances for files in the
+        archive.(   Rñ   (   Ri   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   infolistq  s    c         C   sJ   d d	 GHx: |  j  D]/ } d | j d  } d | j | | j f GHq Wd S(
+   s+   Print a table of contents for the zip file.s   %-46s %19s %12ss	   File Names   Modified    t   Sizes   %d-%02d-%02d %02d:%02d:%02di   s
+   %-46s %s %12dN(   s	   File Names   Modified    R  (   Rñ   RO   R   R\   (   Ri   t   zinfot   date(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   printdirv  s    	c         C   sw   d } xj |  j  D]_ } yA |  j j | j d d d	 ƒ } x | j | ƒ rO q= WWd QXWq t k
+ rn | j SXq Wd S(
+   s%   Read all the files and check the CRC.i   i   Rè   R   i   i   Ni   i    (   Rñ   R   R   R   R   R    (   Ri   t
+   chunk_sizeR  t   f(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   testzip}  s    !
+c         C   s5   |  j  j | ƒ } | d k r1 t d | ƒ ‚ n  | S(   s,   Return the instance of ZipInfo given 'name'.s(   There is no item named %r in the archiveN(   Rð   R¶   R@   t   KeyError(   Ri   R¾   t   info(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   getinfoŠ  s
+    c         C   s
+   | |  _  d S(   s)   Set default password for encrypted files.N(   R˜   (   Ri   R˜   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   setpassword“  s    c         C   s   |  j  S(   s.   The comment text associated with the ZIP file.(   Ró   (   Ri   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRM   —  s    c         C   sX   t  | ƒ t k rB d d  l } | j d t d d ƒ| t  } n  | |  _ t |  _ d  S(   Niÿÿÿÿs3   Archive comment is too long; truncating to %d bytest
+   stackleveli   (   R   t   ZIP_MAX_COMMENTt   warningst   warnRó   R
+   Rî   (   Ri   RM   R'  (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRM   œ  s    	
+	c         C   s"   |  j  j | d | d d ƒj ƒ  S(   s)   Return file bytes (as a string) for name.Rè   R   i   i   i    (   R   R   R   (   Ri   R¾   R˜   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR   §  s    c         C   sm  | d k r t  d ‚ n  |  j s- t  d ‚ n  |  j rH |  j } t } n! t j |  j d d d ƒ} t } yàt | t	 ƒ r„ | } n |  j
+ | ƒ } | j | j d
+ ƒ | j
+ t ƒ } t | ƒ t k rÖ t d ƒ ‚ n  t j t | ƒ } | t t k rt d ƒ ‚ n  | j
+ | t ƒ } | t r8| j
+ | t ƒ n  | | j k r`t d
+ | j | f ‚ n  | j d @}	 d }
+ |	 r/| s‹|  j } n  | s¡t  d | ‚ n  t | ƒ }
+ | j
+ d ƒ } t |
+ | d
+ d !ƒ } | j d	 @ró| j d	 ?d @}
+ n | j d ?d @}
+ t  | d ƒ |
+ k r/t  d | ƒ ‚ q/n  t! | | | |
+ d | ƒSWn | rb| j" ƒ  n  ‚  n Xd S(   s#   Return file-like object for 'name'.Rè   R«   t   rUs&   open() requires mode "r", "U", or "rU"s3   Attempt to read ZIP archive that was already closedR   R   i   i   i    s   Truncated file headers    Bad magic number for file headers3   File name in directory "%s" and header "%s" differ.i   s6   File %s is encrypted, password required for extractioni   iÿ   i   i   s   Bad password for fileRÅ   N(   Rè   R«   R)  i    (#   R€   R   Rõ   R   R   R   R   R
+   Rz   R   R#  R   RY   R   t   sizeFileHeaderR   R    R   R   Rp   t
+   _FH_SIGNATURERq   t   _FH_FILENAME_LENGTHt   _FH_EXTRA_FIELD_LENGTHRN   RU   R@   R˜   Rˆ   RÞ   R]   RZ   R‘   Rª   Rä   (   Ri   R¾   R½   R˜   t   zef_filet   should_closeR  t   fheadert   fnamet   is_encryptedt   zdt   bytest   ht
+   check_byte(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR   «  sd    						
+
+
+
+
+c         C   sO   t  | t ƒ s! |  j | ƒ } n  | d k r< t j ƒ  } n  |  j | | | ƒ S(   s#  Extract a member from the archive to the current working directory,
+           using its full name. Its file information is extracted as accurately
+           as possible. `member' may be a filename or a ZipInfo object. You can
+           specify a different directory using `path'.
+        N(   Rz   R   R#  R@   Rc   t   getcwdt   _extract_member(   Ri   t   membert   pathR˜   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   extractú  s
+    c         C   sC   | d k r |  j ƒ  } n  x! | D] } |  j | | | ƒ q" Wd S(   sõ   Extract all members from the archive to the current working
+           directory. `path' specifies a different directory to extract to.
+           `members' is optional and must be a subset of the list returned
+           by namelist().
+        N(   R@   R  R;  (   Ri   R:  t   membersR˜   RÃ   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt
+   extractall  s    
+c   
+      C   s  | j  j d t j j ƒ } t j j rH | j t j j t j j ƒ } n  t j j | ƒ d } t j j j d „  | j t j j ƒ Dƒ ƒ } t j j d k r2d } t	 | t
+ ƒ rÆ d „  | Dƒ } n t j | d t
+ | ƒ ƒ } | j | ƒ } d „  | j t j j ƒ Dƒ } t j j j d	 „  | Dƒ ƒ } n  t j j | | ƒ } t j j | ƒ } t j j | ƒ } | r”t j j | ƒ r”t j | ƒ n  | j  d
+ d k rÍt j j | ƒ sÉt j | ƒ n  | S|  j | d | ƒ/ } t | d ƒ  }	 t j | |	 ƒ Wd
+ QXWd
+ QX| S(   sb   Extract the ZipInfo object 'member' to a physical
+           file on the path targetpath.
+        R_   i   c         s   s6   |  ], } | d  t  j j t  j j f k r | Vq d S(   R=   N(   Rc   R:  t   curdirt   pardir(   t   .0R  (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pys	   <genexpr>!  s    s   \s   :<>|"?*c         S   s%   i  |  ] } t  d  ƒ t  | ƒ “ q S(   t   _(   R‘   (   R@  Rš   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pys
+   <dictcomp>'  s   	 RA  c         s   s   |  ] } | j  d  ƒ Vq d S(   t   .N(   t   rstrip(   R@  R  (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pys	   <genexpr>,  s    c         s   s   |  ] } | r | Vq d  S(   N(    (   R@  R  (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pys	   <genexpr>-  s    iÿÿÿÿR˜   Rì   N(   R   Re   Rc   R:  Rd   t   altsept
+   splitdriveRÝ   t   splitRz   R{   t   stringt	   maketransR   t	   translatet   normpatht   dirnamet   existst   makedirst   isdirt   mkdirR   Rú   t   shutilt   copyfileobj(
+   Ri   R9  t
+   targetpathR˜   t   arcnamet   illegalR‹   t	   upperdirst   sourcet   target(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR8    s4    !."c         C   s+  | j  |  j k r; d d l } | j d | j  d d ƒn  |  j d k rV t d ‚ n  |  j sk t d	 ‚ n  | j t k r t	 r t d
+ ‚ n  | j t
+ t f k r® t d ‚ n  |  j s'd } t
+ |  j ƒ t k rÛ d } n0 | j t k ró d
+ } n | j t k rd } n  | r't | d ƒ ‚ q'n  d S(   s6   Check for errors before writing a file to the archive.iÿÿÿÿNs   Duplicate name: %rR%  i   Ré   Rê   s    write() requires mode "w" or "a"s4   Attempt to write ZIP archive that was already closeds.   Compression requires the (missing) zlib modules(   That compression method is not supporteds   Files countt   Filesizes   Zipfile sizes    would require ZIP64 extensions(   Ré   Rê   (   R   Rð   R'  R(  R½   R€   R   RP   R   R²   R   Rí   R@   R   Rñ   t   ZIP_FILECOUNT_LIMITR\   Rl   RY   R   (   Ri   R  R'  t   requires_zip64(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   _writecheckB  s2    								c         C   s  |  j  s t d ƒ ‚ n  t j | ƒ } t j | j ƒ } t j | j ƒ } | d d !} | d	 k rm | } n  t j
+ j t j
+ j | ƒ d ƒ } x* | d t j
+ t j f k r» | d } q’ W| rÏ | d 7} n  t | | ƒ } | d d @d >| _ | rt | _ n$ | d	 k r |  j | _ n	 | | _ | j | _ d | _ |  j  j ƒ  | _ |  j | ƒ t |  _ | rÓd | _ d | _ d | _ | j d O_ |  j j | ƒ | |  j  | j! <|  j  j" | j# t$ ƒ ƒ d	 St% j& | d
+ d d ƒ
+}	 d | _ }
+ d | _ } |  j' o!| j d t( k } |  j  j" | j# | ƒ ƒ | j t) k rjt* j+ t* j, t* j- d ƒ }
+ n d	 }
+ d } xx |	 j. d ƒ } | s’Pn  | t/ | ƒ } t0 | |
+ ƒ d @}
+ |
+ rÝ|
+ j1 | ƒ } | t/ | ƒ } n  |  j  j" | ƒ qyWWd	 QX|
+ r5|
+ j2 ƒ  } | t/ | ƒ } |  j  j" | ƒ | | _ n	 | | _ |
+ | _ | | _ | r™|  j' r™| t( k r{t d ƒ ‚ n  | t( k r™t d ƒ ‚ q™n  |  j  j ƒ  } |  j  j3 | j d ƒ |  j  j" | j# | ƒ ƒ |  j  j3 | d ƒ |  j j | ƒ | |  j  | j! <d	 S(   sL   Put the bytes from filename into the archive under the name
+        arcname.s7   Attempt to write to ZIP archive that was already closedi    i   i   R_   iÿÿ  l    i   NR   R   i   i   gÍÌÌÌÌÌð?iñÿÿÿl   ÿÿ s*   File size has increased during compressings-   Compressed size larger than uncompressed sizei    i    (4   R   R€   Rc   t   statt   S_ISDIRt   st_modet   timet	   localtimet   st_mtimeR@   R:  RJ  RE  Rd   RD  R   RX   R   RP   Rò   t   st_sizeR\   RU   R>   RY   R[  R
+   Rî   R[   RZ   Rñ   RD   Rð   R   t   writeRx   R   R   R   Rí   Rl   R   R²   t   compressobjt   Z_DEFAULT_COMPRESSIONt   DEFLATEDR   R   RÀ   t   compressRá   R   (   Ri   R   RS  RP   t   stRN  t   mtimeRO   R  R   RZ   R[   Rr   t   cmprR\   RÖ   t   position(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRc  ^  s–    	
+	"
+		
+				
+
+				c         C   sB  t  | t ƒ s} t d | d t j t j ƒ  ƒ d  ƒ } |  j | _ | j d d k rq d | _ | j d O_ qƒ d | _ n | } |  j s› t	 d	 ƒ ‚ n  | d k	 r³ | | _ n  t | ƒ | _ |  j j
+ ƒ  | _ |  j | ƒ t |  _ t | ƒ d
+ @| _ | j t k rRt j t j t j d ƒ } | j | ƒ | j ƒ  } t | ƒ | _ n | j | _ | j t k py| j t k } | r›|  j r›t d ƒ ‚ n  |  j j | j  | ƒ ƒ |  j j | ƒ | j! d
+ @r| rÝd n d } |  j j t" j# | | j | j | j ƒ ƒ n  |  j j ƒ  |  j$ j% | ƒ | |  j& | j <d S(   s¬   Write a file into the archive.  The contents is the string
+        'bytes'.  'zinfo_or_arcname' is either a ZipInfo instance or
+        the name of the file in the archive.R   RO   i   iÿÿÿÿR_   iýA  i   i€  s7   Attempt to write to ZIP archive that was already closedl   ÿÿ iñÿÿÿs'   Filesize would require ZIP64 extensionsi   s   <LQQs   <LLLNi  ýAi  €('   Rz   R   R_  R`  Rò   RP   R   RX   R   R€   R@   R   R\   R>   RY   R[  R
+   Rî   RÀ   RZ   R   R²   Rd  Re  Rf  Rg  Rá   R[   Rl   Rí   R   Rc  Rx   RU   R   Rm   Rñ   RD   Rð   (   Ri   t   zinfo_or_arcnameR4  RP   R  t   coRr   Rv   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   writestrº  sL    		
+	
+
+c         C   s   |  j  ƒ  d S(   s2   Call the "close()" method in case the user forgot.N(   Rä   (   Ri   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   __del__í  s    c         C   sÖ  |  j  d k r d Sz“|  j d k r¥|  j r¥|  j  j ƒ  } xÎ|  j D]Ã} | j } | d d d >| d d >B| d	 B} | d
+ d >| d d >B| d d	 B} g  } | j t k sÆ | j	 t k rõ | j
+ | j ƒ | j
+ | j	 ƒ d
+ } d
+ } n | j } | j	 } | j |  j }	 |	 t k r9| j
+ |	 ƒ d
+ }	 n  | j
+ }
+ | r£t j d d t | ƒ d d t | ƒ | Œ |
+ }
+ t d | j ƒ } t d | j ƒ } n | j } | j } y… | j ƒ  \ }
+ } t j t t | | j | | j | | j | | | j | | t |
+ ƒ t |
+ ƒ t | j ƒ d | j | j |	 ƒ } WnŠ t k
+ rÆt j  t t | | j | | j | j! | j | | | j | | t | j" ƒ t |
+ ƒ t | j ƒ d | j | j |	 f IJ‚  n X|  j  j# | ƒ |  j  j# |
+ ƒ |  j  j# |
+ ƒ |  j  j# | j ƒ qG W|  j  j ƒ  } t |  j ƒ } | | } | |  j } d } | t$ k r^d } n* | t k rsd } n | t k rˆd } n  | rB|  j% sªt& | d ƒ ‚ n  t j t' t( d d d d d | | | | ƒ } |  j  j# | ƒ t j t) t* d | d ƒ } |  j  j# | ƒ t+ | d ƒ } t+ | d
+ ƒ } t+ | d
+ ƒ } n  t j t, t- d d | | | | t |  j. ƒ ƒ	 } |  j  j# | ƒ |  j  j# |  j. ƒ |  j  j/ ƒ  n  Wd |  j  } d |  _  |  j0 sÑ| j1 ƒ  n  Xd S(   sJ   Close the file, and for mode "w" and "a" write the ending
+        records.NRé   Rê   i    i¼  i	   i   i   i   i   i   i   l   ÿÿ s   <HHt   Qi   i-   s   Files counts   Central directory offsets   Central directory sizes    would require ZIP64 extensionsi,   iÿÿ  (   Ré   Rê   (2   R   R@   R½   Rî   R>   Rñ   RO   R\   Rl   R[   RD   RY   Rø   RQ   R   Rm   R   RE   RS   R4   Ro   R	  R  RR   RT   RP   RZ   RM   RW   RX   t   DeprecationWarningRg   t   stderrRU   R   Rc  RY  Rí   R   R"   R#   R   R    RÜ   RB   RA   Ró   Rá   Rõ   Rä   (   Ri   t   pos1R  Rs   Rt   Ru   RQ   R\   R[   RY   t
+   extra_dataRS   R4   R   RU   R  t   pos2t   centDirCountt   centDirSizet
+   centDirOffsetRZ  t   zip64endrect   zip64locrecR-   R   (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyRä   ñ  s¸    	&&			
+					
+
+
+!	
+
+				
+			N(   R	   R
+   R   R@   R   R   R   Rk   Rþ   R  R÷   R  R  R  R   R#  R$  t   propertyRM   t   setterR   R   R;  R=  R8  R[  Rc  Rn  Ro  Rä   (    (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR   Ä  s0   
+I			F				
+			O	.	\3	c           B   s#   e  Z d  Z d d „ Z d „  Z RS(   sD   Class to create ZIP archives with Python library files and packages.R=   c   
+      C   sà  t  j j | ƒ \ } } t  j j | ƒ r|t  j j | d ƒ } t  j j | ƒ rÊ| rj d | | f } n | } |  j r d G| Gd G| GHn  |  j | d d !| ƒ \ } } |  j rÁ d G| GHn  |  j | | ƒ t  j	 | ƒ } | j
+ d ƒ x‰| D]Ï }	 t  j j | |	 ƒ }
+ t  j j |	 ƒ \ } } t  j j |
+ ƒ rpt  j j t  j j |
+ d ƒ ƒ rÃ|  j |
+ | ƒ qÃqô | d k rô |  j |
+ d d !| ƒ \ } } |  j r°d G| GHn  |  j | | ƒ qô qô WqÜ|  j rßd	 G| GHn  xú t  j	 | ƒ D]† }	 t  j j | |	 ƒ }
+ t  j j |	 ƒ \ } } | d k rï|  j |
+ d d !| ƒ \ } } |  j rbd G| GHn  |  j | | ƒ qïqïWn` | d d k r˜t
+ d
+ ‚ n  |  j | d d !| ƒ \ } } |  j rÌd G| GHn  |  j | | ƒ d S(
+   s,  Add all files from "pathname" to the ZIP archive.
+
+        If pathname is a package directory, search the directory and
+        all package subdirectories recursively for all *.py and enter
+        the modules into the archive.  If pathname is a plain
+        directory, listdir *.py and enter all modules.  Else, pathname
+        must be a Python *.py file and the module will be put into the
+        archive.  Added modules are always module.pyo or module.pyc.
+        This method will compile the module.py into module.pyc if
+        necessary.
+        s   __init__.pys   %s/%ss   Adding package int   asi    iýÿÿÿt   Addings   .pys   Adding files from directorys.   Files added with writepy() must end with ".py"s   Adding fileN(   Rc   R:  RF  RN  RÝ   t   isfileRï   t
+   _get_codenameRc  t   listdirt   removet   splitextt   writepyR€   (
+   Ri   t   pathnamet   basenamet   dirR¾   t   initnameR1  RS  t   dirlistR   R:  t   roott   ext(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR„  c  sZ    		
+
+!					c   
+      C   s8  | d } | d } | d } t  j j | ƒ r] t  j | ƒ j t  j | ƒ j k r] | } n¢ t  j j | ƒ s” t  j | ƒ j t  j | ƒ j k  rù d d l } |  j rµ d G| GHn  y | j | | d t	 ƒ Wn | j
+ k
+ rï } | j GHn X| } n | } t  j j | ƒ d }	 | r.d | |	 f }	 n  | |	 f S(	   s   Return (filename, archivename) for the path.
+
+        Given a module name path, return the correct file path and
+        archive name, compiling if necessary.  For example, given
+        /python/lib/string, return (/python/lib/string.pyc, string).
+        s   .pys   .pycs   .pyoiÿÿÿÿNt	   Compilingi   s   %s/%s(
+   Rc   R:  R  R\  Ra  t
+   py_compileRï   Rç   R@   R
+   t   PyCompileErrort   msgRF  (
+   Ri   R…  R†  t   file_pyt   file_pyct   file_pyoR1  R  t   errt   archivename(    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR€  ¤  s*    
+
+
+$	$		(   R	   R
+   R   R„  R€  (    (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR   `  s   Ac      	      s™  d d  l  } | j d ƒ } |  d  k r7 t j d }  n  |  sN |  d d k rc | GHt j d ƒ n  |  d d k rÃ t |  ƒ d	 k rš | GHt j d ƒ n  t |  d d
+ ƒ  } | j ƒ  Wd  QXnÒ|  d d k rAt |  ƒ d	 k rú | GHt j d ƒ n  t |  d d
+ ƒ  } | j	 ƒ  } Wd  QX| r9d j
+ | ƒ GHn  d GHnT|  d d k r¨t |  ƒ d
+ k rx| GHt j d ƒ n  t |  d d
+ ƒ  } | j |  d	 ƒ Wd  QXní |  d d k r•t |  ƒ d
+ k  rß| GHt j d ƒ n  ‡  f d †  ‰  t |  d d d t ƒ‰ } x |  d	 D]s } t
+ j j | ƒ } | sTt
+ j j t
+ j j | ƒ ƒ } n  | d t
+ j t
+ j f k rxd } n  ˆ  | | | ƒ qWWd  QXn  d  S(   NiÿÿÿÿsE          Usage:
+            zipfile.py -l zipfile.zip        # Show listing of a zipfile
+            zipfile.py -t zipfile.zip        # Test if a zipfile is valid
+            zipfile.py -e zipfile.zip target # Extract zipfile into target dir
+            zipfile.py -c zipfile.zip src ... # Create zipfile from sources
+        i   i    s   -ls   -cs   -es   -ti   Rè   s.   The following enclosed file is corrupted: {!r}s   Done testingi   c            s¢   t  j j | ƒ r( |  j | | t ƒ nv t  j j | ƒ rž | rS |  j | | ƒ n  xH t  j | ƒ D]4 } ˆ  |  t  j j | | ƒ t  j j | | ƒ ƒ qc Wn  d  S(   N(   Rc   R:  R  Rc  R   RN  R  RÝ   (   t   zfR:  t   zippatht   nm(   t   addToZip(    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyR˜  ñ  s    Ré   Rû   R=   (   s   -ls   -cs   -es   -t(   t   textwrapt   dedentR@   Rg   t   argvt   exitR   R   R  R   t   formatR=  R
+   Rc   R:  R†  RK  R>  R?  (   t   argsR™  t   USAGER•  t   badfileR:  R–  (    (   R˜  s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   mainÃ  sT    	!	t   __main__(j   R   Rc   R_  Rg   RP  t   binasciiR  R\  R   Ræ   RG  R²   RÀ   t   ImportErrorR@   t   __all__t	   ExceptionR    R   R   Rl   RY  R&  R   R   RB   RA   Rn   R?   R$   R%   R&   R'   R(   R)   R*   RG   R  R  R	  R  R  R
+  t   _CD_CREATE_VERSIONt   _CD_CREATE_SYSTEMt   _CD_EXTRACT_VERSIONt   _CD_EXTRACT_SYSTEMt
+   _CD_FLAG_BITSt   _CD_COMPRESS_TYPEt   _CD_TIMEt   _CD_DATEt   _CD_CRCt   _CD_COMPRESSED_SIZEt   _CD_UNCOMPRESSED_SIZER  R
+  R  t   _CD_DISK_NUMBER_STARTt   _CD_INTERNAL_FILE_ATTRIBUTESt   _CD_EXTERNAL_FILE_ATTRIBUTESR  Rp   Rq   R*  R+  t   _FH_EXTRACT_VERSIONt   _FH_EXTRACT_SYSTEMt   _FH_GENERAL_PURPOSE_FLAG_BITSt   _FH_COMPRESSION_METHODt   _FH_LAST_MOD_TIMEt   _FH_LAST_MOD_DATEt   _FH_CRCt   _FH_COMPRESSED_SIZEt   _FH_UNCOMPRESSED_SIZER,  R-  R   R    R   R"   R#   R!   t   _CD64_SIGNATUREt   _CD64_DIRECTORY_RECSIZEt   _CD64_CREATE_VERSIONt   _CD64_EXTRACT_VERSIONt   _CD64_DISK_NUMBERt   _CD64_DISK_NUMBER_STARTt   _CD64_NUMBER_ENTRIES_THIS_DISKt   _CD64_NUMBER_ENTRIES_TOTALt   _CD64_DIRECTORY_SIZEt   _CD64_OFFSET_START_CENTDIRR   R   R<   R   t   objectR   Rˆ   Rµ   RÉ   Rª   R   R   R¡  R	   (    (    (    s[   /storage/emulated/0/Android/data/nhr.stubebox.v5/files/.kodi/addons/kodi.xbmc.python/zipex.pyt   <module>   sì   <$
+
+
+			+	=ž<
+Ðÿ ÿ žcB
