@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="StubeLive( 1 )", ACTİON MOVİES
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="StubeLive( 1 )", COMEDY MOVİES
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="StubeLive( 1 )", DAZN 1
 https://www.kool.to/play/1219725590/index.m3u8
 #EXTINF:-1 group-title="StubeLive( 1 )", DAZN 1 HD
@@ -20,10 +24,6 @@ https://www.kool.to/play/3036039415/index.m3u8
 #EXTINF:-1 group-title="StubeLive( 1 )", ZDF INFO
 https://www.kool.to/play/3404340462/index.m3u8
 
-#EXTINF:-1 group-title="StubeLive( 1 )", ACTİON MOVİES
-https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="StubeLive( 1 )", COMEDY MOVİES
-https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="StubeLive( 1 )", WDR 1 LİVE
 https://live2.telvi.de/hls/wwtv_hd720.m3u8
 #EXTINF:-1 group-title="StubeLive( 1 )", RAKUTEN SPORT
