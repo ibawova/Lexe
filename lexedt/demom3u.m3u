@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:120,1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:0,h_249 - al_c,q_85,usm_0.66_1.00_0.01,enc_auto/just%20vogue%20kont.png" status="timeout" group-title="Fashion",Just Vogue Tv
+https://tivi191.ozelip.com:3873/stream/play.m3u8
+#EXTINF:0,Motorvision TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:0,hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:0,Rakuten Comedy Movies Austria
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Comedy Movies Germany
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten TV Shows Austria
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Action Movies Germany
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten TV Shows Germany
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Spotlight Germany
+https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten Top Free Germany
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.com
