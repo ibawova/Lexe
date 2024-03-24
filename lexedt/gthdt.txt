@@ -3,7 +3,7 @@ url=""
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stb.png"
 
 title="VİP~CODE~083"
-url="https://drive.usercontent.google.com/download?id=1YeNSKF6tV3S4QwMxRdjhln8rAksZT8An&export=download&authuser=2&confirm=t&uuid=39ec2dab-52dc-46ef-adc4-ea0d2fbd37e5&at=APZUnTWmsb6fq73v8_Eg-1yktAJ3%3A1710090382161"
+url="https://drive.usercontent.google.com/download?id=1YeNSKF6tV3S4QwMxRdjhln8rAksZT8An"
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/083.png"
 
 title=""
@@ -11,7 +11,7 @@ url=""
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stb.png"
 
 title="VİP~CODE~138"
-url="https://drive.usercontent.google.com/download?id=11iao-0WKrTdqkSn2E8ptXMYuTFuvnl1w&export=download&authuser=0&confirm=t&uuid=921f8c33-8c3b-4104-b2f5-e07d03cec7f5&at=APZUnTXYVvbGzS7STSBCkO6abW8b:1708161963829"
+url="https://drive.usercontent.google.com/download?id=11iao-0WKrTdqkSn2E8ptXMYuTFuvnl1w"
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/138.png"
 
 title=""
