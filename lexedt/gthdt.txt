@@ -3,7 +3,7 @@ url=""
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stb.png"
 
 title="VİP~CODE~083"
-url="https://drive.usercontent.google.com/download?id=1YeNSKF6tV3S4QwMxRdjhln8rAksZT8An"
+url="https://drive.usercontent.google.com/download?id=1YeNSKF6tV3S4QwMxRdjhln8rAksZT8An&confirm=t&uuid=7163962e-8752-410f-be29-14b36eb8bb61&at=APZUnTUvyh2SUVi68FnaI8VeU_BI%3A1711356216806"
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/083.png"
 
 title=""
