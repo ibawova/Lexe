@@ -11,7 +11,7 @@ url=""
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stb.png"
 
 title="VİP~CODE~138"
-url="https://drive.usercontent.google.com/download?id=11iao-0WKrTdqkSn2E8ptXMYuTFuvnl1w"
+url="https://drive.usercontent.google.com/download?id=11iao-0WKrTdqkSn2E8ptXMYuTFuvnl1w&confirm=t&uuid=bd4465a4-668f-45d7-921b-9f89d5d7e1b7&at=APZUnTXlhEY38WI4NHavMRKCef2H%3A1711356295878"
 image="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/138.png"
 
 title=""
