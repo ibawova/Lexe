@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Fashion TV 
+https://tivi191.ozelip.com:3873/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten Action Movies DE
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten Comedy Movies DE
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten TV Shows DE
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten Top Free DE
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten Comedy Movies AU
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten TV Shows AU
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", WARNER COMEDY 
 https://www.vavoo.to/play/2880825196/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", AMAZON PRIME VIDEO 1 
