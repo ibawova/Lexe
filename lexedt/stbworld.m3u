@@ -1,11 +1,1386 @@
-
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Fashion TV 
+https://tivi191.ozelip.com:3873/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten Action Movies DE
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten Comedy Movies DE
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten TV Shows DE
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten Top Free DE
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten Comedy Movies AU
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Rakuten TV Shows AU
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",1-2-3.tv
+https://123tv-mx1.flex-cdn.net/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",13th Street FHD
+https://m3u-editor.com/serve/german/1162508785
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD 1 HD LOCAL
+https://m3u-editor.com/serve/german/1162508994
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAS ERSTE
+https://m3u-editor.com/serve/german/1162508723
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Kabel eins
+https://m3u-editor.com/serve/german/1162508750
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ORF 1(eins)
+https://m3u-editor.com/serve/german/1162508768
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ProSieben FHD
+https://m3u-editor.com/serve/german/1162508743
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Romance
+https://m3u-editor.com/serve/german/1162508804
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Romance HD
+https://m3u-editor.com/serve/german/1162508803
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Crime HD
+https://m3u-editor.com/serve/german/1162508734
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL HD
+https://m3u-editor.com/serve/german/1162508729
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL II HD
+https://m3u-editor.com/serve/german/1162508731
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SAT 1 HD
+https://m3u-editor.com/serve/german/1162508747
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SIXX HD
+https://m3u-editor.com/serve/german/1162508755
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky 1 FHD
+https://m3u-editor.com/serve/german/1162508844
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Action FHD
+https://m3u-editor.com/serve/german/1162508854
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Action HD
+https://m3u-editor.com/serve/german/1162508853
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Comedy HD
+https://m3u-editor.com/serve/german/1162508855
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema FHD
+https://m3u-editor.com/serve/german/1162508848
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 1 FHD
+https://m3u-editor.com/serve/german/1162508903
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 1 FHD
+https://m3u-editor.com/serve/german/1162508901
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Syfy HD
+https://m3u-editor.com/serve/german/1162508791
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT Comedy FHD
+https://m3u-editor.com/serve/german/1162508793
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT Serie FHD
+https://m3u-editor.com/serve/german/1162508797
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Universal Channel HD
+https://m3u-editor.com/serve/german/1162508801
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",VOX HD
+https://m3u-editor.com/serve/german/1162508753
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZDF HD
+https://m3u-editor.com/serve/german/1162508725
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",1-2-3.tv
+https://m3u-editor.com/serve/german/1162509020
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",13TH STREET
+https://m3u-editor.com/serve/german/1162508647
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",13th Street HD
+https://m3u-editor.com/serve/german/1162509022
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",3 SAT HD
+https://m3u-editor.com/serve/german/1162509021
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",3SAT
+https://m3u-editor.com/serve/german/1162508680
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",A&E HD
+https://m3u-editor.com/serve/german/1162509023
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ANIXE
+https://m3u-editor.com/serve/german/1162508681
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ANIXE SD
+https://m3u-editor.com/serve/german/1162509024
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD One HD
+https://m3u-editor.com/serve/german/1162509025
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD Sports Olympia 1
+https://m3u-editor.com/serve/german/1162508999
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD Sports Olympia 10 FHD
+https://m3u-editor.com/serve/german/1162509007
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD Sports Olympia 2 FHD
+https://m3u-editor.com/serve/german/1162509000
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD Sports Olympia 3 FHD
+https://m3u-editor.com/serve/german/1162509001
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD Sports Olympia 4 FHD
+https://m3u-editor.com/serve/german/1162509002
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD Sports Olympia 5 FHD
+https://m3u-editor.com/serve/german/1162509003
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD Sports Olympia 6 FHD
+https://m3u-editor.com/serve/german/1162509004
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD Sports Olympia 7 FHD
+https://m3u-editor.com/serve/german/1162509005
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD Sports Olympia 8 FHD
+https://m3u-editor.com/serve/german/1162509006
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARTE
+https://m3u-editor.com/serve/german/1162508648
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ATV
+https://m3u-editor.com/serve/german/1162508649
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",AXN
+https://m3u-editor.com/serve/german/1162508682
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",BOOMERANG
+https://m3u-editor.com/serve/german/1162508683
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Boomerang
+https://m3u-editor.com/serve/german/1162509026
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",CARTOON NETWORK
+https://m3u-editor.com/serve/german/1162508684
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Cartoon Network
+https://m3u-editor.com/serve/german/1162509027
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Cinedome Action
+https://m3u-editor.com/serve/german/1162508650
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Cinedome Animation
+https://m3u-editor.com/serve/german/1162508685
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Cinedome Cinema
+https://m3u-editor.com/serve/german/1162508686
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Cinedome Comedy
+https://m3u-editor.com/serve/german/1162508687
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Cinedome Familie
+https://m3u-editor.com/serve/german/1162508688
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Cinedome Horror
+https://m3u-editor.com/serve/german/1162508689
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",CiNEMA 1 HD
+https://m3u-editor.com/serve/german/1162508690
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",CiNEMA 2 HD
+https://m3u-editor.com/serve/german/1162508691
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",CiNEMA 3 HD
+https://m3u-editor.com/serve/german/1162508651
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",CLASSICA
+https://m3u-editor.com/serve/german/1162508652
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Classica
+https://m3u-editor.com/serve/german/1162509028
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Comedy Central
+https://m3u-editor.com/serve/german/1162509029
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Das Erste
+https://m3u-editor.com/serve/german/1162509033
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAS ERSTE
+https://m3u-editor.com/serve/german/1162508653
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Das Erste HD
+https://m3u-editor.com/serve/german/1162508692
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN 1 (720)
+https://m3u-editor.com/serve/german/1162509036
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN 1 BAR
+https://m3u-editor.com/serve/german/1162508654
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN 1 UHD
+https://m3u-editor.com/serve/german/1162509152
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN 2 (720)
+https://m3u-editor.com/serve/german/1162509037
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN 2 BAR
+https://m3u-editor.com/serve/german/1162508655
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN 2 UHD
+https://m3u-editor.com/serve/german/1162509153
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Fast FHD
+https://m3u-editor.com/serve/german/1162509017
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Rise FHD
+https://m3u-editor.com/serve/german/1162509018
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DELUXE MUSIC
+https://m3u-editor.com/serve/german/1162508693
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DELUXE MUSIC HD
+https://m3u-editor.com/serve/german/1162509034
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DISCOVERY
+https://m3u-editor.com/serve/german/1162508694
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Discovery Channel
+https://m3u-editor.com/serve/german/1162509038
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Discovery Channel HD
+https://m3u-editor.com/serve/german/1162509039
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Disney Channel
+https://m3u-editor.com/serve/german/1162509030
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DISNEY CHANNEL
+https://m3u-editor.com/serve/german/1162508695
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Disney Channel FHD
+https://m3u-editor.com/serve/german/1162508696
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Disney Cinemagic
+https://m3u-editor.com/serve/german/1162509031
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DISNEY JR
+https://m3u-editor.com/serve/german/1162508697
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Disney Junior HD
+https://m3u-editor.com/serve/german/1162509032
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DMAX
+https://m3u-editor.com/serve/german/1162508656
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DMAX HD
+https://m3u-editor.com/serve/german/1162509035
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EAGLE CINEMA AKTION HD
+https://m3u-editor.com/serve/german/1162509043
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EAGLE CINEMA DRAMA HD
+https://m3u-editor.com/serve/german/1162509052
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EAGLE CINEMA GESCHICHTE HD
+https://m3u-editor.com/serve/german/1162509046
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EAGLE CINEMA HORROR HD
+https://m3u-editor.com/serve/german/1162509048
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EAGLE CINEMA KOMEDIE HD
+https://m3u-editor.com/serve/german/1162509051
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EAGLE CINEMA LACHELN HD
+https://m3u-editor.com/serve/german/1162509049
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EAGLE CINEMA MYTHOLOGIE HD
+https://m3u-editor.com/serve/german/1162509050
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EAGLE CINEMA PREMIERE HD
+https://m3u-editor.com/serve/german/1162509044
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EAGLE CINEMA SCI-FI HD
+https://m3u-editor.com/serve/german/1162509045
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EAGLE CINEMA THRILLER HD
+https://m3u-editor.com/serve/german/1162509047
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EUROSPORT 1 HD
+https://m3u-editor.com/serve/german/1162509040
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EUROSPORT 2 EXTRA HD
+https://m3u-editor.com/serve/german/1162509042
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EUROSPORT 2 HD
+https://m3u-editor.com/serve/german/1162509041
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EWTN katholisches TV
+https://m3u-editor.com/serve/german/1162509053
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Family TV
+https://m3u-editor.com/serve/german/1162509054
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Junior
+https://m3u-editor.com/serve/german/1162509057
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",KABEL EINS CLASSIC HD
+https://m3u-editor.com/serve/german/1162509061
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",KABEL EINS HD
+https://m3u-editor.com/serve/german/1162509058
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",KiKA HD
+https://m3u-editor.com/serve/german/1162509062
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",KINO WELT
+https://m3u-editor.com/serve/german/1162509060
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Kinowelt TV
+https://m3u-editor.com/serve/german/1162509059
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Motorvision TV HD
+https://m3u-editor.com/serve/german/1162509064
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MTV HD
+https://m3u-editor.com/serve/german/1162509063
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",N-TV
+https://m3u-editor.com/serve/german/1162509069
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",N24 DOKU HD
+https://m3u-editor.com/serve/german/1162509070
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",NAT GEO
+https://m3u-editor.com/serve/german/1162509065
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ORF 2 HD
+https://m3u-editor.com/serve/german/1162509146
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ORF SPORT
+https://m3u-editor.com/serve/german/1162509145
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",PRO 7 FUN HD
+https://m3u-editor.com/serve/german/1162509091
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",PRO 7 UHD
+https://m3u-editor.com/serve/german/1162509151
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",PRO7 MAXX HD
+https://m3u-editor.com/serve/german/1162509089
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ProSieben HD
+https://m3u-editor.com/serve/german/1162509090
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Romance TV
+https://m3u-editor.com/serve/german/1162509098
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL 2 HD
+https://m3u-editor.com/serve/german/1162509072
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL 2 UHD
+https://m3u-editor.com/serve/german/1162509150
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Crime
+https://m3u-editor.com/serve/german/1162509079
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL HD
+https://m3u-editor.com/serve/german/1162509071
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL LIVING
+https://m3u-editor.com/serve/german/1162508698
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL LIVING HD
+https://m3u-editor.com/serve/german/1162509073
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL NITRO FHD
+https://m3u-editor.com/serve/german/1162508699
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL NITRO HD
+https://m3u-editor.com/serve/german/1162509086
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL NITRO HD
+https://m3u-editor.com/serve/german/1162508657
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL PASSION
+https://m3u-editor.com/serve/german/1162508658
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL PLUS
+https://m3u-editor.com/serve/german/1162509080
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SAT 1 EMOTIONS
+https://m3u-editor.com/serve/german/1162508659
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SAT 1 GOLD
+https://m3u-editor.com/serve/german/1162508660
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SAT.1
+https://m3u-editor.com/serve/german/1162509082
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SAT.1 Gold
+https://m3u-editor.com/serve/german/1162509083
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SIXX
+https://m3u-editor.com/serve/german/1162508661
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SIXX FHD
+https://m3u-editor.com/serve/german/1162509087
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SIXX HD
+https://m3u-editor.com/serve/german/1162509088
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY 1 FHD
+https://m3u-editor.com/serve/german/1162508662
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY 1 HD
+https://m3u-editor.com/serve/german/1162508700
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY 1 HD
+https://m3u-editor.com/serve/german/1162509074
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Atlantic HD
+https://m3u-editor.com/serve/german/1162509099
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY ATLANTIC HD
+https://m3u-editor.com/serve/german/1162508663
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA  24
+https://m3u-editor.com/serve/german/1162508664
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA 1
+https://m3u-editor.com/serve/german/1162508665
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA 1   HD
+https://m3u-editor.com/serve/german/1162508666
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA 1 HD
+https://m3u-editor.com/serve/german/1162509100
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA 1 HD
+https://m3u-editor.com/serve/german/1162508667
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA 24 HD
+https://m3u-editor.com/serve/german/1162509101
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA ACTION
+https://m3u-editor.com/serve/german/1162508668
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA ACTION
+https://m3u-editor.com/serve/german/1162509102
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA BEST OF
+https://m3u-editor.com/serve/german/1162508669
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Comedy
+https://m3u-editor.com/serve/german/1162508670
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA COMEDY
+https://m3u-editor.com/serve/german/1162509103
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA COMEDY HD
+https://m3u-editor.com/serve/german/1162508671
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA EMOTION
+https://m3u-editor.com/serve/german/1162509106
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA FAMILY
+https://m3u-editor.com/serve/german/1162509104
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA FAMILY
+https://m3u-editor.com/serve/german/1162508701
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Family HD
+https://m3u-editor.com/serve/german/1162508679
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA FAMILY HD
+https://m3u-editor.com/serve/german/1162508678
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA FUN
+https://m3u-editor.com/serve/german/1162508702
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA FUN HD
+https://m3u-editor.com/serve/german/1162509016
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA HITS
+https://m3u-editor.com/serve/german/1162509105
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA HITS FHD
+https://m3u-editor.com/serve/german/1162508703
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA NOSTALGIE
+https://m3u-editor.com/serve/german/1162509107
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA NOSTALGIE HD
+https://m3u-editor.com/serve/german/1162508704
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Premieren +24 HD+
+https://m3u-editor.com/serve/german/1162509014
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Premieren HD+
+https://m3u-editor.com/serve/german/1162509013
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY DISNEY CHANNEL
+https://m3u-editor.com/serve/german/1162508705
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Documentaries FHD
+https://m3u-editor.com/serve/german/1162509008
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY KRIMI
+https://m3u-editor.com/serve/german/1162509011
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY KRIMI HD
+https://m3u-editor.com/serve/german/1162508706
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Nature FHD
+https://m3u-editor.com/serve/german/1162509009
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky One HD+
+https://m3u-editor.com/serve/german/1162509012
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 2
+https://m3u-editor.com/serve/german/1162508707
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 2 HD
+https://m3u-editor.com/serve/german/1162508672
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 2 HD
+https://m3u-editor.com/serve/german/1162509109
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 3 HD
+https://m3u-editor.com/serve/german/1162509110
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 4 HD
+https://m3u-editor.com/serve/german/1162509111
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 4 HD
+https://m3u-editor.com/serve/german/1162508708
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 5 HD
+https://m3u-editor.com/serve/german/1162509112
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 6 HD
+https://m3u-editor.com/serve/german/1162508673
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 6 HD
+https://m3u-editor.com/serve/german/1162509113
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 7 HD
+https://m3u-editor.com/serve/german/1162509114
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 8 HD
+https://m3u-editor.com/serve/german/1162509115
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 9 HD
+https://m3u-editor.com/serve/german/1162509116
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 1 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509128
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 1 SD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509129
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 2 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509130
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 2 SD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509131
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 3 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509132
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 4 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509133
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 6 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509134
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 8 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509135
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 9 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509120
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Austria
+https://m3u-editor.com/serve/german/1162509117
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 1 FHD
+https://m3u-editor.com/serve/german/1162509121
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 1 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509136
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 1 SD
+https://m3u-editor.com/serve/german/1162509122
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 2 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509137
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 3 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509138
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 4 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509139
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 5 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509140
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 6 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509141
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 7 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509142
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 8 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509143
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 9 HD ( Mac Zamani)
+https://m3u-editor.com/serve/german/1162509144
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT NEWS HD
+https://m3u-editor.com/serve/german/1162509119
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT NEWS SD
+https://m3u-editor.com/serve/german/1162509118
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SONNENKLAR TV
+https://m3u-editor.com/serve/german/1162508709
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SONY ENTERTAINMENT
+https://m3u-editor.com/serve/german/1162508710
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SPOR DIGITAL HD
+https://m3u-editor.com/serve/german/1162509148
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SUPER RTL
+https://m3u-editor.com/serve/german/1162508711
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SUPER RTL HD
+https://m3u-editor.com/serve/german/1162509084
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SWR BW
+https://m3u-editor.com/serve/german/1162508712
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SYFY
+https://m3u-editor.com/serve/german/1162508674
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SYFY HD
+https://m3u-editor.com/serve/german/1162509093
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Tagesschau 24
+https://m3u-editor.com/serve/german/1162508713
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Tagesschau24
+https://m3u-editor.com/serve/german/1162509108
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TELEKOM BUNDESLIGA 1 HD
+https://m3u-editor.com/serve/german/1162509123
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TELEKOM BUNDESLIGA 2 HD
+https://m3u-editor.com/serve/german/1162509124
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TELEKOM BUNDESLIGA 3 HD
+https://m3u-editor.com/serve/german/1162509125
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TELEKOM BUNDESLIGA 4 HD
+https://m3u-editor.com/serve/german/1162509126
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TELEKOM BUNDESLIGA 5 HD
+https://m3u-editor.com/serve/german/1162509127
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TELEKOM BUNDESLIGA 6 HD
+https://m3u-editor.com/serve/german/1162508996
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TELEKOM BUNDESLIGA 7 HD
+https://m3u-editor.com/serve/german/1162508997
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TELEKOM BUNDESLIGA 8 HD
+https://m3u-editor.com/serve/german/1162508998
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TLC
+https://m3u-editor.com/serve/german/1162509092
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TLC HD
+https://m3u-editor.com/serve/german/1162509081
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT COMEDY
+https://m3u-editor.com/serve/german/1162508714
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT Comedy HD
+https://m3u-editor.com/serve/german/1162509094
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT FILM
+https://m3u-editor.com/serve/german/1162508715
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT Film HD
+https://m3u-editor.com/serve/german/1162509095
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT SERIE
+https://m3u-editor.com/serve/german/1162508716
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT Serie
+https://m3u-editor.com/serve/german/1162509097
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT Serie Hd
+https://m3u-editor.com/serve/german/1162509096
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TOGGO plus
+https://m3u-editor.com/serve/german/1162509085
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",UNIVERSAL
+https://m3u-editor.com/serve/german/1162508717
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Universal Channel HD
+https://m3u-editor.com/serve/german/1162509015
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",VOX
+https://m3u-editor.com/serve/german/1162509076
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",VOX
+https://m3u-editor.com/serve/german/1162508675
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",VOX UHD
+https://m3u-editor.com/serve/german/1162509149
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",WDR HD+
+https://m3u-editor.com/serve/german/1162508676
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZDF FHD
+https://m3u-editor.com/serve/german/1162508718
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZDF HD
+https://m3u-editor.com/serve/german/1162508677
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZDF HD
+https://m3u-editor.com/serve/german/1162509075
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZDF INFO
+https://m3u-editor.com/serve/german/1162509078
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZDF NEO
+https://m3u-editor.com/serve/german/1162508719
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZEE ONE
+https://m3u-editor.com/serve/german/1162508720
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZEE ONE
+https://m3u-editor.com/serve/german/1162509077
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",1.2.3 TV HD
+https://m3u-editor.com/serve/german/1162508895
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",13th Street HD
+https://m3u-editor.com/serve/german/1162508784
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",3sat HD
+https://m3u-editor.com/serve/german/1162508763
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Animal Planet FHD
+https://m3u-editor.com/serve/german/1162508813
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Animal Planet HD
+https://m3u-editor.com/serve/german/1162508812
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ANIXE HD
+https://m3u-editor.com/serve/german/1162508811
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Arte FHD
+https://m3u-editor.com/serve/german/1162508762
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Arte HD
+https://m3u-editor.com/serve/german/1162508761
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ATV FHD
+https://m3u-editor.com/serve/german/1162508771
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Auto Motor und Sport FHD
+https://m3u-editor.com/serve/german/1162508935
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",AXN HD
+https://m3u-editor.com/serve/german/1162508786
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Bibel TV HD
+https://m3u-editor.com/serve/german/1162508893
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",BR fernsehen
+https://m3u-editor.com/serve/german/1162508764
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Comedy Central
+https://m3u-editor.com/serve/german/1162508799
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Comedy Central HD
+https://m3u-editor.com/serve/german/1162508800
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Crime+ Investigation
+https://m3u-editor.com/serve/german/1162508814
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Crime+ Investigation HD
+https://m3u-editor.com/serve/german/1162508815
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Das Erste HD
+https://m3u-editor.com/serve/german/1162508722
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Deluxe Music HD
+https://m3u-editor.com/serve/german/1162508838
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Discovery Channel FHD
+https://m3u-editor.com/serve/german/1162508817
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Discovery Channel HD
+https://m3u-editor.com/serve/german/1162508816
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DMAX HD
+https://m3u-editor.com/serve/german/1162508825
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",E! HD
+https://m3u-editor.com/serve/german/1162508810
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema 007 HD
+https://m3u-editor.com/serve/german/1162508995
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema Abenteuer FHD
+https://m3u-editor.com/serve/german/1162508870
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema Aktion HD
+https://m3u-editor.com/serve/german/1162508871
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema Animation HD
+https://m3u-editor.com/serve/german/1162508872
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema Drama HD
+https://m3u-editor.com/serve/german/1162508876
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema Horror FHD
+https://m3u-editor.com/serve/german/1162508877
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema Komodie HD
+https://m3u-editor.com/serve/german/1162508878
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema Lächeln HD
+https://m3u-editor.com/serve/german/1162508879
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema Premiere HD
+https://m3u-editor.com/serve/german/1162508873
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema Sci-Fi HD
+https://m3u-editor.com/serve/german/1162508874
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eagle Cinema Thriller HD
+https://m3u-editor.com/serve/german/1162508875
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EuroNews SD
+https://m3u-editor.com/serve/german/1162508780
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 1 FHD
+https://m3u-editor.com/serve/german/1162508936
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 1 HD
+https://m3u-editor.com/serve/german/1162508937
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 2 FHD
+https://m3u-editor.com/serve/german/1162508938
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 2 HD
+https://m3u-editor.com/serve/german/1162508939
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 2 Xtra FHD
+https://m3u-editor.com/serve/german/1162508940
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 2 Xtra HD
+https://m3u-editor.com/serve/german/1162508941
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",FC Bayern TV
+https://m3u-editor.com/serve/german/1162508942
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",FC Bayern TV HD
+https://m3u-editor.com/serve/german/1162508943
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",FOX FHD
+https://m3u-editor.com/serve/german/1162508789
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",FOX HD
+https://m3u-editor.com/serve/german/1162508788
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Heimat kanal
+https://m3u-editor.com/serve/german/1162508805
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",History FHD
+https://m3u-editor.com/serve/german/1162508819
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",History HD
+https://m3u-editor.com/serve/german/1162508818
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",HISTORY HD
+https://m3u-editor.com/serve/german/1162508979
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",HR fernsehen FHD
+https://m3u-editor.com/serve/german/1162508781
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",HR fernsehen HD
+https://m3u-editor.com/serve/german/1162508782
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Jukebox
+https://m3u-editor.com/serve/german/1162508839
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",kabel eins CLASSIC HD
+https://m3u-editor.com/serve/german/1162508752
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",kabel eins Doku HD
+https://m3u-editor.com/serve/german/1162508826
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",kabel eins FHD
+https://m3u-editor.com/serve/german/1162508751
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Kinowelt TV
+https://m3u-editor.com/serve/german/1162508806
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Kinowelt TV HD
+https://m3u-editor.com/serve/german/1162508807
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Kronehit TV
+https://m3u-editor.com/serve/german/1162508840
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MAX KINO 2 HD
+https://m3u-editor.com/serve/german/1162508884
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MAX KINO 3 HD
+https://m3u-editor.com/serve/german/1162508885
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MAX KINO COLLECTION HD
+https://m3u-editor.com/serve/german/1162508886
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MAX KINO HD
+https://m3u-editor.com/serve/german/1162508883
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MAX Premiere 1 HD
+https://m3u-editor.com/serve/german/1162508880
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MAX Premiere 2 HD
+https://m3u-editor.com/serve/german/1162508881
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MAX Premiere 3 HD
+https://m3u-editor.com/serve/german/1162508882
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MDR HD
+https://m3u-editor.com/serve/german/1162508767
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Motorvision HD
+https://m3u-editor.com/serve/german/1162508944
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Motorvision TV
+https://m3u-editor.com/serve/german/1162508945
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MTV FHD
+https://m3u-editor.com/serve/german/1162508834
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MTV Hits
+https://m3u-editor.com/serve/german/1162508835
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",n-tv FHD
+https://m3u-editor.com/serve/german/1162508775
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",n-tv HD
+https://m3u-editor.com/serve/german/1162508774
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",N24 Doku
+https://m3u-editor.com/serve/german/1162508832
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Nat Geo Wild FHD
+https://m3u-editor.com/serve/german/1162508824
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Nat Geo Wild HD
+https://m3u-editor.com/serve/german/1162508823
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",National Geographic
+https://m3u-editor.com/serve/german/1162508820
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",National Geographic FHD
+https://m3u-editor.com/serve/german/1162508822
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",National Geographic HD
+https://m3u-editor.com/serve/german/1162508821
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",NDR fernsehen HD
+https://m3u-editor.com/serve/german/1162508766
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Noa4 Norderstedt FHD
+https://m3u-editor.com/serve/german/1162508897
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",NRJ Hits HD
+https://m3u-editor.com/serve/german/1162508837
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",One
+https://m3u-editor.com/serve/german/1162508758
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",One HD
+https://m3u-editor.com/serve/german/1162508757
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ORF 2 HD
+https://m3u-editor.com/serve/german/1162508769
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ORF 3 HD
+https://m3u-editor.com/serve/german/1162508770
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Phoenix HD
+https://m3u-editor.com/serve/german/1162508779
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",PLANET HD
+https://m3u-editor.com/serve/german/1162508809
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ProSieben
+https://m3u-editor.com/serve/german/1162508741
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ProSieben Fun HD
+https://m3u-editor.com/serve/german/1162508744
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ProSieben HD
+https://m3u-editor.com/serve/german/1162508742
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ProSieben MAXX FHD
+https://m3u-editor.com/serve/german/1162508746
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ProSieben MAXX HD
+https://m3u-editor.com/serve/german/1162508745
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",QVC
+https://m3u-editor.com/serve/german/1162508894
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL FHD
+https://m3u-editor.com/serve/german/1162508730
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL II FHD
+https://m3u-editor.com/serve/german/1162508733
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL II HD
+https://m3u-editor.com/serve/german/1162508732
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Living HD
+https://m3u-editor.com/serve/german/1162508735
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Nitro FHD
+https://m3u-editor.com/serve/german/1162508737
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Nitro HD
+https://m3u-editor.com/serve/german/1162508736
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Passion
+https://m3u-editor.com/serve/german/1162508738
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL plus
+https://m3u-editor.com/serve/german/1162508739
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SAT 1 emotions
+https://m3u-editor.com/serve/german/1162508749
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SAT 1 GOLD HD
+https://m3u-editor.com/serve/german/1162508748
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Servus TV HD
+https://m3u-editor.com/serve/german/1162508896
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SIXX FHD
+https://m3u-editor.com/serve/german/1162508756
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky 1 HD
+https://m3u-editor.com/serve/german/1162508843
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Atlantic FHD
+https://m3u-editor.com/serve/german/1162508846
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Atlantic HD
+https://m3u-editor.com/serve/german/1162508845
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema +1 FHD
+https://m3u-editor.com/serve/german/1162508850
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema +1 HD
+https://m3u-editor.com/serve/german/1162508849
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema +24 FHD
+https://m3u-editor.com/serve/german/1162508852
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema +24 HD
+https://m3u-editor.com/serve/german/1162508851
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema CLASSICS HD
+https://m3u-editor.com/serve/german/1162508862
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Emotion
+https://m3u-editor.com/serve/german/1162508856
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Emotion HD
+https://m3u-editor.com/serve/german/1162508857
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Family FHD
+https://m3u-editor.com/serve/german/1162508858
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Family HD
+https://m3u-editor.com/serve/german/1162508859
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema HD
+https://m3u-editor.com/serve/german/1162508847
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Hits FHD
+https://m3u-editor.com/serve/german/1162508860
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Hits HD
+https://m3u-editor.com/serve/german/1162508861
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema SD
+https://m3u-editor.com/serve/german/1162508863
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Special HD
+https://m3u-editor.com/serve/german/1162508864
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky DMAX HD
+https://m3u-editor.com/serve/german/1162508868
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Heimatkanal
+https://m3u-editor.com/serve/german/1162508867
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Krimi FHD
+https://m3u-editor.com/serve/german/1162508865
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Krimi HD
+https://m3u-editor.com/serve/german/1162508866
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Popcorn Select 1 HD
+https://m3u-editor.com/serve/german/1162508889
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Popcorn Select 2 HD
+https://m3u-editor.com/serve/german/1162508890
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Popcorn Select 3 HD
+https://m3u-editor.com/serve/german/1162508891
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Popcorn Select 4 HD
+https://m3u-editor.com/serve/german/1162508887
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Select 1 HD
+https://m3u-editor.com/serve/german/1162508967
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Select 10 FHD
+https://m3u-editor.com/serve/german/1162508976
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Select 2 HD
+https://m3u-editor.com/serve/german/1162508968
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Select 3 HD
+https://m3u-editor.com/serve/german/1162508969
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Select 4 HD
+https://m3u-editor.com/serve/german/1162508970
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Select 5 HD
+https://m3u-editor.com/serve/german/1162508971
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Select 6 HD
+https://m3u-editor.com/serve/german/1162508972
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Select 7 HD
+https://m3u-editor.com/serve/german/1162508973
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Select 8 HD
+https://m3u-editor.com/serve/german/1162508974
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SELECT 9 HD
+https://m3u-editor.com/serve/german/1162508975
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 1
+https://m3u-editor.com/serve/german/1162508950
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 1 HD
+https://m3u-editor.com/serve/german/1162508904
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 10 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508929
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 2 FHD
+https://m3u-editor.com/serve/german/1162508905
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 2 HD
+https://m3u-editor.com/serve/german/1162508906
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 3 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508916
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 4 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508917
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 4 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508918
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 5 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508919
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 5 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508920
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 6 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508921
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 6 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508922
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 7 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508923
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 7 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508924
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 8 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508925
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 8 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508926
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 9 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508927
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport 9 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508928
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Austria HD
+https://m3u-editor.com/serve/german/1162508946
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 1
+https://m3u-editor.com/serve/german/1162508949
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 1 HD
+https://m3u-editor.com/serve/german/1162508902
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 10 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508915
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 4 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508907
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 5 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508908
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 5 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508909
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 6 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508910
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 6 HD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508911
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 7 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508912
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 8 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508913
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport Bundesliga 9 FHD [Live Events Only]
+https://m3u-editor.com/serve/german/1162508914
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Sport News HD
+https://m3u-editor.com/serve/german/1162508900
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SONY  AXN FHD
+https://m3u-editor.com/serve/german/1162508787
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sony TV HD
+https://m3u-editor.com/serve/german/1162508790
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Spiegel Geschichte
+https://m3u-editor.com/serve/german/1162508827
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Spiegel TV Wissen
+https://m3u-editor.com/serve/german/1162508829
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Spiegel TV Wissen HD
+https://m3u-editor.com/serve/german/1162508828
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sport1 FHD
+https://m3u-editor.com/serve/german/1162508930
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sport1 HD
+https://m3u-editor.com/serve/german/1162508931
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sport1+ HD
+https://m3u-editor.com/serve/german/1162508932
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sportdigital FHD
+https://m3u-editor.com/serve/german/1162508933
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sportdigital HD
+https://m3u-editor.com/serve/german/1162508934
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SRF 1 HD
+https://m3u-editor.com/serve/german/1162508777
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SRF zwei HD
+https://m3u-editor.com/serve/german/1162508778
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Stingray Classica FHD
+https://m3u-editor.com/serve/german/1162508841
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Super RTL HD
+https://m3u-editor.com/serve/german/1162508740
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Syfy FHD
+https://m3u-editor.com/serve/german/1162508792
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Tagesschau24 HD
+https://m3u-editor.com/serve/german/1162508776
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TELE 5
+https://m3u-editor.com/serve/german/1162508772
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TELE 5 FHD
+https://m3u-editor.com/serve/german/1162508773
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TLC
+https://m3u-editor.com/serve/german/1162508759
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TLC FHD
+https://m3u-editor.com/serve/german/1162508760
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT Comedy HD
+https://m3u-editor.com/serve/german/1162508794
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT Film
+https://m3u-editor.com/serve/german/1162508796
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT Film FHD
+https://m3u-editor.com/serve/german/1162508795
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TNT Serie HD
+https://m3u-editor.com/serve/german/1162508798
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",TRP 1 FHD
+https://m3u-editor.com/serve/german/1162508898
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Universal Channel FHD
+https://m3u-editor.com/serve/german/1162508802
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",VOX FHD
+https://m3u-editor.com/serve/german/1162508754
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",VOXUP
+https://m3u-editor.com/serve/german/1162509010
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",WDR fernsehen HD
+https://m3u-editor.com/serve/german/1162508765
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Welt der Wunder
+https://m3u-editor.com/serve/german/1162508830
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",WELT HD
+https://m3u-editor.com/serve/german/1162508831
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",XITE FHD
+https://m3u-editor.com/serve/german/1162508836
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZDF HD
+https://m3u-editor.com/serve/german/1162508724
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZDF info HD
+https://m3u-editor.com/serve/german/1162508726
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZDF neo
+https://m3u-editor.com/serve/german/1162508728
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ZDF neo HD
+https://m3u-editor.com/serve/german/1162508727
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Best Of FHD
+https://m3u-editor.com/serve/german/1162508978
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sky Cinema Best Of HD
+https://m3u-editor.com/serve/german/1162508977
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Basketball 1 HD
+https://m3u-editor.com/serve/german/1162508956
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Basketball 2 HD
+https://m3u-editor.com/serve/german/1162508957
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Basketball 3 HD
+https://m3u-editor.com/serve/german/1162508958
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Eishockey 1 HD
+https://m3u-editor.com/serve/german/1162508952
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Eishockey 2 HD
+https://m3u-editor.com/serve/german/1162508953
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Eishockey 3 HD
+https://m3u-editor.com/serve/german/1162508954
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Fußball 1 HD
+https://m3u-editor.com/serve/german/1162508960
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Fußball 2 HD
+https://m3u-editor.com/serve/german/1162508961
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Fußball 3 HD
+https://m3u-editor.com/serve/german/1162508962
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Fußball 4 HD
+https://m3u-editor.com/serve/german/1162508963
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Fußball 5 HD
+https://m3u-editor.com/serve/german/1162508964
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Fußball 6 HD
+https://m3u-editor.com/serve/german/1162508965
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Fußball 7 HD
+https://m3u-editor.com/serve/german/1162508966
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Telekom Fußball 8 HD
+https://m3u-editor.com/serve/german/1162508955
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MTV DANCE DE
+https://m3u-editor.com/serve/german/1162508992
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",N-TV HD DE
+https://m3u-editor.com/serve/german/1162508991
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA +24 HD DE
+https://m3u-editor.com/serve/german/1162508980
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA ACTION HD DE
+https://m3u-editor.com/serve/german/1162508993
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY CINEMA EMOTION HD DE
+https://m3u-editor.com/serve/german/1162508981
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 1 DE
+https://m3u-editor.com/serve/german/1162508983
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 3 DE
+https://m3u-editor.com/serve/german/1162508985
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 3 HD DE
+https://m3u-editor.com/serve/german/1162508984
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 5 DE
+https://m3u-editor.com/serve/german/1162508986
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT 8 HD DE
+https://m3u-editor.com/serve/german/1162508987
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 3 HD DE
+https://m3u-editor.com/serve/german/1162508988
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 9 DE
+https://m3u-editor.com/serve/german/1162508990
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SKY SPORT BUNDESLIGA 9 HD DE
+https://m3u-editor.com/serve/german/1162508989
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SONY TV HD DE
+https://m3u-editor.com/serve/german/1162508982
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sport-DAZN Bar 1  HD
+https://m3u-editor.com/serve/german/1162508951
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sport-DAZN Bar 1 HD
+https://m3u-editor.com/serve/german/1162508947
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sport-DAZN Bar 2 HD
+https://m3u-editor.com/serve/german/1162508948
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",13th Street FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509233
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",13th Street HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509232
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",3 SAT HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509215
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Amazon Prime 1 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509449
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Animal Planet FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509381
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ARD Alpha HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509162
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Arte HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509198
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",AXN BLACK FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509201
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",AXN WHITE FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509224
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",BILD HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509220
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",BR Fernsehen Süd HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509226
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Canal+ Formula 1 HD FR
+https://m3u-editor.com/serve/garmany1/1162509512
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Cartoon Network HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509359
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Cartoonito HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509358
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Comedy Central FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509235
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Comedy Central HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509234
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Cray Babies HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509363
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Crime+ Investigation HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509382
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Das Erste FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509161
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Das Erste HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509160
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN 1 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509452
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN 1 HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509451
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN 2 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509454
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN 2 HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509453
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Event 1 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509495
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Event 10 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509504
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Event 2 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509496
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Event 3 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509497
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Event 4 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509498
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Event 5 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509499
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Event 6 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509500
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Event 7 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509501
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Event 8 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509502
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN Event 9 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509503
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN FAST FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509455
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DAZN RISE FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509456
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Deluxe Music HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509196
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Discovery Channel FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509384
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Discovery Channel HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509383
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Disney Channel FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509361
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Disney Channel HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509360
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DMAX FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509379
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",DMAX HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509378
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",E! entertainement FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509386
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",E! entertainement HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509385
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema 4k (DE)
+https://m3u-editor.com/serve/garmany1/1162509302
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Abenteuer FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509332
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Action FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509343
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Alpacino FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509304
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Angelina Jolie FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509305
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Anime FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509342
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Arnold Schwarzenegger FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509306
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Bruce Willis 1 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509307
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Bruce Willis 2 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509308
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Cameron Diaz FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509309
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Disney 1 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509364
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Disney 2 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509365
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Disney 3 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509366
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Disney 4 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509367
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Drama FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509335
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Dwayne Johnson FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509310
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Familie FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509341
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Fantasie FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509340
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Horror FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509336
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Jackie Chan 1 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509311
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Jackie Chan 2 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509312
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema James Bond 007 - 1 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509319
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema James Bond 007 - 2 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509320
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Jason Statham FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509313
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Jet Li FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509314
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Kids FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509368
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Kids: Mascha und der Bär HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509369
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Kids: Märchen HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509373
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Kids: Peppa Wutz HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509371
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Kids: PJ Masks HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509370
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Kids: Tom und Jerry HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509372
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema KinoBox 1 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509351
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema KinoBox 2 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509352
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema KinoBox 3 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509353
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema KinoBox 4 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509354
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Komedie FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509334
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Krimi FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509339
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Romanze FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509337
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Sci-Fi FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509338
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Select 1 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509344
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Select 2 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509345
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Select 3 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509346
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Select 4 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509347
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Select 5 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509348
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Select 6 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509349
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Select 7 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509350
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Series 7/24: Breaking Bad HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509327
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Series 7/24: Game of Thrones HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509328
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Series 7/24: How I Met Your Mother HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509325
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Series 7/24: King of Queens FHD
+https://m3u-editor.com/serve/garmany1/1162509331
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Series 7/24: La Casa de Papel HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509329
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Series 7/24: The Big Bang Theorie HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509326
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Series 7/24: Walking Dead HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509330
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Show:  Grill den Henssler HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509323
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Show: Cirkus HalliGalli HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509324
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Show: Harald Schmidt Show HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509321
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Show: Heute Show HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509322
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Star Wars FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509303
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Sylvester Stallone FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509315
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Thriller FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509333
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Van Damme FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509316
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Wesley Snipes FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509317
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",EU Cinema Will Smith FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509318
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Euronews HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509202
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 1 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509458
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 1 HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509457
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 2 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509460
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 2 HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509459
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 2 Xtra FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509402
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Eurosport 2 Xtra HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509461
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",GEO TV FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509380
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Handystar TV HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509203
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Heimatkanal HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509204
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",History FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509388
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",History HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509387
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",HR fernsehen HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509205
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",HSE EXTRA FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509222
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",HSE HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509221
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Juwelo HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509206
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Kabel Eins Classic FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509231
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Kabel Eins Doku FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509389
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Kabel Eins FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509191
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Kabel Eins HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509190
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",KIKA HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509356
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Kinowelt TV FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509223
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MDR Sachsen FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509197
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Motor Vision HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509462
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MTV FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509195
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",MTV HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509194
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",N-TV FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509193
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",N-TV HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509192
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",N24 Doku HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509390
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Nat Geo Wild FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509392
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Nat Geo Wild HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509391
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Nat Geographic FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509394
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Nat Geographic HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509393
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",NDR Fernsehen Niedersachsen HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509207
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Nick jr HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509357
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Nitro FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509225
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Nitro HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509184
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ONE HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509208
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Paw Patrol HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509362
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Phoenix HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509209
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Prosieben FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509173
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",ProSieben FUN FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509229
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Prosieben HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509172
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Prosieben MAXX FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509180
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Prosieben MAXX HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509181
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",QVC HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509210
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",QVC ZWEI FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509211
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Radio Bremen TV HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509212
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",rbb Berlin HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509213
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Romance TV HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509214
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Crime FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509236
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509171
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509170
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Living FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509179
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Passion FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509238
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Passion HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509237
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL UP FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509183
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Zwei FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509178
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL Zwei HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509177
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL+ SPORT EVENT 1 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509505
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL+ SPORT EVENT 2 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509506
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL+ SPORT EVENT 3 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509507
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL+ SPORT EVENT 4 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509508
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL+ SPORT EVENT 5 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509509
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",RTL+ SPORT EVENT 6 FHD DE (MatchTime)
+https://m3u-editor.com/serve/garmany1/1162509510
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",Sat 1 Emotion FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509230
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SAT 1 FHD (DE)
+https://m3u-editor.com/serve/garmany1/1162509169
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SAT 1 Gold HD (DE)
+https://m3u-editor.com/serve/garmany1/1162509182
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany",SAT 1 HD (DE)
+
+
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", WARNER COMEDY 
+https://www.vavoo.to/play/2880825196/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", AMAZON PRIME VIDEO 1 
+https://www.vavoo.to/play/1068833184/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", AMAZON PRIME VIDEO 2 
+https://www.vavoo.to/play/2014667632/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", AMAZON PRIME SPORT [NUR LIVE STTEAMING] 
+https://www.vavoo.to/play/1041884085/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", DAZN 1 HD 
+https://www.vavoo.to/play/790505545/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", DAZN 1 (MATCH TIME) HD 
+https://www.vavoo.to/play/1648323101/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA ACTION 
+https://www.vavoo.to/play/1868995979/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA ACTION HD+ 
+https://www.vavoo.to/play/409572149/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA CLASSICS 
+https://www.vavoo.to/play/1624420467/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SPORTS F1 
 https://www.vavoo.to/play/1015375896/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY ACTION HD 
 https://www.vavoo.to/play/2317864510/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", NDR 
-https://www.vavoo.to/play/626009305/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA SPECIAL HD+ 
+https://www.vavoo.to/play/250080469/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA SPECIAL 
+https://www.vavoo.to/play/839297041/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 1 HD 
 https://www.vavoo.to/play/2692055695/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 3 HD 
@@ -18,38 +1393,92 @@ https://www.vavoo.to/play/3467744755/index.m3u8
 https://www.vavoo.to/play/2160121135/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA PREMIEREN HD+ 
 https://www.vavoo.to/play/3882598604/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", MAX KINO 3 
-https://www.vavoo.to/play/1570231814/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", 13TH STREET 
-https://www.vavoo.to/play/1398886436/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", ZDF HD+ 
-https://www.vavoo.to/play/443779248/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", PRO 7 HD 
-https://www.vavoo.to/play/3081311548/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA THRILLER HD+ 
+https://www.vavoo.to/play/1187406402/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA +1 
+https://www.vavoo.to/play/3504175636/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY BEST OF HD 
 https://www.vavoo.to/play/1246170750/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", DAZN 1 HD 
-https://www.vavoo.to/play/790505545/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA SPECIAL HD+ 
-https://www.vavoo.to/play/250080469/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SPORT F1 HD (LOCAL) 
+https://www.vavoo.to/play/3282009314/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", S. SPORT PREMIER LEAGUE FHD 
+https://www.vavoo.to/play/706668977/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY ACTION 
+https://www.vavoo.to/play/2768441052/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA BEST 
+https://www.vavoo.to/play/1822146669/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA PREMIEREN 
+https://www.vavoo.to/play/1718362869/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", MAX KINO 3 
+https://www.vavoo.to/play/1570231814/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", MAX KINO COLLECTION 
+https://www.vavoo.to/play/895867402/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA FUN HD 
+https://www.vavoo.to/play/1241911832/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA COMEDY 
+https://www.vavoo.to/play/2448704903/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA THRILLER 
+https://www.vavoo.to/play/232761236/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA ACTION 
+https://www.vavoo.to/play/1386904110/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA CLASSICS HD+ 
+https://www.vavoo.to/play/1448190538/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY DOCUMENTARIES 
+https://www.vavoo.to/play/2856631384/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY THRILLER HD 
+https://www.vavoo.to/play/678710348/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", ANIMAL PLANET 
+https://www.vavoo.to/play/3308107442/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", NAT GEO WILD 
 https://www.vavoo.to/play/3103246159/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", NAT GEO 
+https://www.vavoo.to/play/1215262459/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY 1 
+https://www.vavoo.to/play/3636561634/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 2 
+https://www.vavoo.to/play/1116879660/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 4 
+https://www.vavoo.to/play/2499388085/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 5 
+https://www.vavoo.to/play/2845412101/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 6 
+https://www.vavoo.to/play/2003739135/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 
+https://www.vavoo.to/play/3224250673/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 2 
+https://www.vavoo.to/play/465131285/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SYFY HD+ 
+https://www.vavoo.to/play/3783525531/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY 1 HD 
+https://www.vavoo.to/play/4183016874/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", PRO7 FUN HD 
+https://www.vavoo.to/play/1393264386/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", NDR 
+https://www.vavoo.to/play/626009305/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", DISNEY CHANNEL 
+https://www.vavoo.to/play/1814040327/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", ZDF HD 
+https://www.vavoo.to/play/4148714220/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", RTL HD 
+https://www.vavoo.to/play/3651093665/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", VOX HD+ 
+https://www.vavoo.to/play/2357950563/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", NTV 
 https://www.vavoo.to/play/2281775097/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", S. SPORT TENNIS HD 
 https://www.vavoo.to/play/2823528967/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", ZDF INFO 
 https://www.vavoo.to/play/2601120704/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", DAZN 1 
-https://www.vavoo.to/play/1219725590/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", ORF 2 
 https://www.vavoo.to/play/670534512/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA SPECIAL 
-https://www.vavoo.to/play/839297041/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", ORF 1 
 https://www.vavoo.to/play/1616376224/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", DISNEY CHANNEL 
-https://www.vavoo.to/play/1814040327/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", 13TH STREET 
+https://www.vavoo.to/play/1398886436/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", ZDF HD+ 
+https://www.vavoo.to/play/443779248/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", PRO 7 HD 
+https://www.vavoo.to/play/3081311548/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", E! 
 https://www.vavoo.to/play/3347450604/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SERVUS TV 
@@ -74,38 +1503,18 @@ https://www.vavoo.to/play/3887339415/index.m3u8
 https://www.vavoo.to/play/29792044/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", PHOENIX HD 
 https://www.vavoo.to/play/3693072604/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 2 
-https://www.vavoo.to/play/1116879660/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", PRO7 FUN HD 
-https://www.vavoo.to/play/1393264386/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 4 
-https://www.vavoo.to/play/2499388085/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 5 
-https://www.vavoo.to/play/2845412101/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 6 
-https://www.vavoo.to/play/2003739135/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 
-https://www.vavoo.to/play/3224250673/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SELECT 2 
-https://www.vavoo.to/play/465131285/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", TOGGO PLUS 
 https://www.vavoo.to/play/419427944/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", BOOMERANG 
 https://www.vavoo.to/play/1024648531/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", S. SPORT PREMIER LEAGUE FHD 
-https://www.vavoo.to/play/706668977/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SPORT F1 HD (H265) 
 https://www.vavoo.to/play/1919386021/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SPORT F1 HD+ 
 https://www.vavoo.to/play/3874320418/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", RTL HD 
-https://www.vavoo.to/play/3651093665/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", S. SPORT F1 HD 
 https://www.vavoo.to/play/4095755444/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", RTL 
 https://www.vavoo.to/play/1495857435/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY SPORT F1 HD (LOCAL) 
-https://www.vavoo.to/play/3282009314/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", RTL HD+ 
 https://www.vavoo.to/play/305160835/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", 13TH STREET HD+ 
@@ -116,8 +1525,6 @@ https://www.vavoo.to/play/3185477072/index.m3u8
 https://www.vavoo.to/play/3827842440/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", 13TH STREET 
 https://www.vavoo.to/play/2771156879/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA THRILLER HD+ 
-https://www.vavoo.to/play/1187406402/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", DMAX HD+ 
 https://www.vavoo.to/play/1921824923/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", MAX KINO 
@@ -128,8 +1535,6 @@ https://www.vavoo.to/play/1745903168/index.m3u8
 https://www.vavoo.to/play/3384268715/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", ARD DAS ERSTE 
 https://www.vavoo.to/play/2627520412/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", AMAZON PRIME VIDEO 2 
-https://www.vavoo.to/play/2014667632/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA CLASSICS 
 https://www.vavoo.to/play/1624420467/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY ACTION 
@@ -154,10 +1559,6 @@ https://www.vavoo.to/play/2381158967/index.m3u8
 https://www.vavoo.to/play/353167520/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SAT 1 HD+ 
 https://www.vavoo.to/play/2757874412/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", WARNER COMEDY 
-https://www.vavoo.to/play/2880825196/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", AMAZON PRIME VIDEO 1 
-https://www.vavoo.to/play/1068833184/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SAT 1 
 https://www.vavoo.to/play/685177834/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CRIME 
@@ -180,16 +1581,6 @@ https://www.vavoo.to/play/1059700775/index.m3u8
 https://www.vavoo.to/play/343883555/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", RTL 2 HD+ 
 https://www.vavoo.to/play/3237251278/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", DAZN 1 (MATCH TIME) HD 
-https://www.vavoo.to/play/1648323101/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", MAX KINO COLLECTION 
-https://www.vavoo.to/play/895867402/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA ACTION 
-https://www.vavoo.to/play/1868995979/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", VOX HD+ 
-https://www.vavoo.to/play/2357950563/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA ACTION HD+ 
-https://www.vavoo.to/play/409572149/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", KABEL 1 HD 
 https://www.vavoo.to/play/3611197449/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", RTL ZWEI HD 
@@ -212,24 +1603,12 @@ https://www.vavoo.to/play/3404340462/index.m3u8
 https://www.vavoo.to/play/1904766026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", PRO 7 MAXX 
 https://www.vavoo.to/play/3208059145/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY 1 
-https://www.vavoo.to/play/3636561634/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", NAT GEO 
-https://www.vavoo.to/play/1215262459/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY ACTION 
-https://www.vavoo.to/play/2768441052/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA BEST 
-https://www.vavoo.to/play/1822146669/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA PREMIEREN 
-https://www.vavoo.to/play/1718362869/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", N-TV HD+ 
 https://www.vavoo.to/play/3240777724/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", N-TV HD 
 https://www.vavoo.to/play/358531270/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", WELT/N24 SD 
 https://www.vavoo.to/play/3319786461/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA +1 
-https://www.vavoo.to/play/3504175636/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY KRIMI 
 https://www.vavoo.to/play/4149639425/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", DAZN 1 FHD 
@@ -256,34 +1635,17 @@ https://www.vavoo.to/play/3249732310/index.m3u8
 https://www.vavoo.to/play/885527862/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", N-TV 
 https://www.vavoo.to/play/3622846860/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA FUN HD 
-https://www.vavoo.to/play/1241911832/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA COMEDY 
-https://www.vavoo.to/play/2448704903/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA THRILLER 
-https://www.vavoo.to/play/232761236/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA ACTION 
-https://www.vavoo.to/play/1386904110/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", TLC 
 https://www.vavoo.to/play/1462622982/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", RTL UP 
 https://www.vavoo.to/play/875455801/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", EAGLE BOLLYWOOD 
 https://www.vavoo.to/play/2764434371/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SYFY HD+ 
-https://www.vavoo.to/play/3783525531/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY 1 HD 
-https://www.vavoo.to/play/4183016874/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY DOCUMENTARIES 
-https://www.vavoo.to/play/2856631384/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY THRILLER HD 
-https://www.vavoo.to/play/678710348/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", ANIMAL PLANET 
-https://www.vavoo.to/play/3308107442/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", NTV HD 
 https://www.vavoo.to/play/158730276/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY CINEMA CLASSICS HD+ 
-https://www.vavoo.to/play/1448190538/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", TNT FILM HD 
 https://www.vavoo.to/play/2046338581/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", PRO7 MAXX 
@@ -556,8 +1918,7 @@ https://www.vavoo.to/play/2603286977/index.m3u8
 https://www.vavoo.to/play/1539934872/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", SKY ATLANTIC HD 
 https://www.vavoo.to/play/1628153377/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", AMAZON PRIME SPORT [NUR LIVE STTEAMING] 
-https://www.vavoo.to/play/1041884085/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", AUTO MOTOR SPORT 
 https://www.vavoo.to/play/242916611/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="NahroVip 🇩🇪 Germany", RTL NITRO HD 
