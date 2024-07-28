@@ -16,6 +16,766 @@ https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="ByStube - BASIC",1-2-3.tv
 https://123tv-mx1.flex-cdn.net/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPvqLtGi1CaPoBMByStubeGH0-qF_HMZWqflSdsFiFql2BrMRA.png" group-title="ByStube - BASIC",|ByStube| SPIEGEL GESCHICHTE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96035
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjwDYVHiJc64bQu4izfXLG5l5i_q3jaZMYLgj4PGfY_NRHAiPfO_L1kCkfYJGn6wnKA.png" group-title="ByStube - BASIC",|ByStube| MDR FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96060
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTVMns4sDVhbfskWodOQsFqi1o7QaByStube5nERKv6DS4yX0A.png" group-title="ByStube - BASIC",|ByStube| RTL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96010
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| BARBIE H②⑥⑤
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96247
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjwDYVHiJc64bQu4izfXLG5n-2bMC6c9AVTB5bMBV6ef1qMxBSNj3l-2meiY7_1DKng.png" group-title="ByStube - BASIC",|ByStube| ZDF FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96108
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBoV6UbbcH1kJP2bZUKYQ1PaGhw9d95vC6SNCxQ69WgSw.png" group-title="ByStube - BASIC",|ByStube| RTL 2 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96117
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| BR FERNSEHEN
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96198
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| KRONEHIT TV
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96193
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTnUWNfbIWIuR4F3KTYNbSMMRq9lxJPICRn31FyQCnq0g.png" group-title="ByStube - BASIC",|ByStube| SONY AXN FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96029
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| SR FERNSEHEN HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96264
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBoV6UbbcH1kJP2bZUKYQ1PaGhw9d95vC6SNCxQ69WgSw.png" group-title="ByStube - BASIC",|ByStube| RTL 2 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96011
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| GUMBALL H②⑥⑤
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96246
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCq8mBvNchq5sJ1c7axNEZoiPwT5hhvQL3a_TOf4TSdFw.png" group-title="ByStube - BASIC",|ByStube| ANIXE+ HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96082
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjwDYVHiJc64bQu4izfXLG5n-2bMC6c9AVTB5bMBV6ef1qMxBSNj3l-2meiY7_1DKng.png" group-title="ByStube - BASIC",|ByStube| ZDF HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96092
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDUx4G0Q4mfApXUIOdYubr93EdlMzTdufu2-jQ-ZRPhSw.png" group-title="ByStube - BASIC",|ByStube| NITRO HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96033
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRMjiNCk1cGgX0kl8iMW4IdHxAnnIDZQRZ7xTSatPds7w.png" group-title="ByStube - BASIC",|ByStube| PRO 7 MAXX HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96012
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| WARNER BROS TV HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95974
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCB9LcX55OctTU7t3j0b8_Bcpj6wddWUA9mDiQGeVFY7A.png" group-title="ByStube - BASIC",|ByStube| DMAX FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96031
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| BIBEL TV IMPULS HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96180
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sC-Ao_xtod84e_fFmsbMG87e161LyjVOrQx2ywY_OsOqA.png" group-title="ByStube - BASIC",|ByStube| PRO 7 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96114
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| SIXX FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96045
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRCsVDr27nol4slLR3o7a_4VQapeYdIWrSNVOSNmvn9yw.png" group-title="ByStube - BASIC",|ByStube| KABEL EINS DOKU HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96153
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| LOONEY TUNES H265
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96245
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| SKY DOCUMENTARIES FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96311
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| SWR BW HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96008
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sA1GSfUoaMigzsYFRaGVFs8W_llKbqR0gw_0mTq34dQig.png" group-title="ByStube - BASIC",|ByStube| RTL LIVING HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96034
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTybOXkxq49m98QQ3KH6wf1rISnfolCx0cX5LEnTIxiOg.png" group-title="ByStube - BASIC",|ByStube| N24 DOKU
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96151
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDKKHE4dMr71TbsabV7XDQcMX9hhh_NYL3qRvBlnwk4mw.png" group-title="ByStube - BASIC",|ByStube| KABEL EINS HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96032
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| NITRO FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96009
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| KABEL EINS FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96112
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTVMns4sDVhbfskWodOQsFqi1o7QaByStube5nERKv6DS4yX0A.png" group-title="ByStube - BASIC",|ByStube| RTL FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96116
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| PAW PATROL H265
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96244
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| SKY NATURE FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96310
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBSfy55HHdgo0QGeSgHvAn1YZxaiNoKfH1TDxQKHbny4Q.png" group-title="ByStube - BASIC",|ByStube| PRO 7 MAXX FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96115
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| SIXX HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96272
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDCsBddzs4SeGjUv9nKQ74Gjq56eAjDGF5D5uO8lyNUcA.png" group-title="ByStube - BASIC",|ByStube| SAT 1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96163
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| DOXX HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96054
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| MASCHA UND ByStubeR BAR H265
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96243
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| CINE STAR KINO HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96232
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM6by-5zFzxyBMsJQYQNKUDIKUJjHyK1OxB4bxCdH4P1w.png" group-title="ByStube - BASIC",|ByStube| ANIMAL PLANET HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96083
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zP66ZWkRnXp_YlJmsvl8LZCHhlNZnT3-CL4RIlI4TjCVQ.png" group-title="ByStube - BASIC",|ByStube| DAS ERSTE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96030
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| PRO 7 HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96271
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSPkgVuDfZcCaXbyH81anf_u8fehlT4jNohxm5qzufpZg.png" group-title="ByStube - BASIC",|ByStube| NATIONAL GEOGRAPHIC HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96074
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCSFuDmcQAiwxUGScI9Zs5WJXmveAEB0KqM7KA89ZWXew.png" group-title="ByStube - BASIC",|ByStube| VOX HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95972
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sC-Ao_xtod84e_fFmsbMG87e161LyjVOrQx2ywY_OsOqA.png" group-title="ByStube - BASIC",|ByStube| PRO 7 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96013
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDCsBddzs4SeGjUv9nKQ74Gjq56eAjDGF5D5uO8lyNUcA.png" group-title="ByStube - BASIC",|ByStube| SAT 1 HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95982
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| WAIDWERK HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96181
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| SIXX HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96068
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDCsBddzs4SeGjUv9nKQ74Gjq56eAjDGF5D5uO8lyNUcA.png" group-title="ByStube - BASIC",|ByStube| SAT 1 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96113
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCPV-JAiaav3IIMo8-BAB-iEekCTL-FD8JiayMn55R_ig.png" group-title="ByStube - BASIC",|ByStube| NDR HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96014
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDI8mcw4VvOBVyBXAMpx0J4wQJ2uO42cc-4cw6Kv85EqA.png" group-title="ByStube - BASIC",|ByStube| 3SAT FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96085
+#EXTINF:-1 tvg-logo="http://109.238.11.8:25461/logo/tv/pp/pro_sieben_maxx_ByStube.png" group-title="ByStube - BASIC",|ByStube| PRO 7 MAXX HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96270
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRA9yj4xVyuAKjl6ly1tjVc112wc-jTpICHuKFtopgXkA.png" group-title="ByStube - BASIC",|ByStube| HISTORY FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96076
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| ZDF INFO HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96037
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| FIX - FOXI
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96168
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSPkgVuDfZcCaXbyH81anf_u8fehlT4jNohxm5qzufpZg.png" group-title="ByStube - BASIC",|ByStube| NATIONAL GEOGRAPHIC  FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96026
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| RTL UHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96241
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSww9hcuMxVBbaMUdKpEtad5OElkr9sARaG3fzZbMl8_Q.png" group-title="ByStube - BASIC",|ByStube| ANIMAL PLANET FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96056
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCne6DgizUgaw1AYqq-0L1lrHEZV-0k3qZcWIfyraf8JQ.png" group-title="ByStube - BASIC",|ByStube| WDR FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96036
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| SAT 1 GOLD HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96064
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDI8mcw4VvOBVyBXAMpx0J4wQJ2uO42cc-4cw6Kv85EqA.png" group-title="ByStube - BASIC",|ByStube| 3SAT HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96027
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| VOX HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96269
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBZOvpTWK3zVCw6gnz4NWWxp5js46Kux-2Y8nZwPtXzog.png" group-title="ByStube - BASIC",|ByStube| DISCOVERY CHANNEL FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96079
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRfToNTdb9ykwhYDz_-OosSOaiQ4n20mAp63qrJQwqHUw.png" group-title="ByStube - BASIC",|ByStube| VOXUP HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96166
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMyqOReY0-Ylkn_dyFMDuEHTvTApkX6k8KudT5R85e3DQ.png" group-title="ByStube - BASIC",|ByStube| ZDF NEO HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96038
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQ0-8vSplKGK3qWi5dxwkR8E-BXTGzWA5YitlATY1pCdw.png" group-title="ByStube - BASIC",|ByStube| WDR HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96066
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM6EP4rEe_-hZC5xGRiGkzSd5H5am8S3MhCoTtDH8TBmA.png" group-title="ByStube - BASIC",|ByStube| MUNCHEN.TV HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96194
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| ANIXE+ HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96199
+#EXTINF:-1 tvg-logo="http://silvertv.net:1997/images/GERMANY/History.ByStube.png" group-title="ByStube - BASIC",|ByStube| HISTORY HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96018
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zOC9O8OIoQF_ZcZc4_fFaT6szMNEcSB6tgOSbvvUIZaDQ.png" group-title="ByStube - BASIC",|ByStube| HR-FERNSEHEN HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96088
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBaiOb530ierzAPmXaV4weK5QBS3wkitl2HvdqZOwbC6Q.png" group-title="ByStube - BASIC",|ByStube| SWR RP HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96170
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDcbMt7ILmP8ZIEb6kyzRonyObhtkAB1sirgG8IGFD1NQ.png" group-title="ByStube - BASIC",|ByStube| ARTE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96028
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| RTL 2 HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96268
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQDSJKJg5hPFlJ8qm559S22bs2H0gyh_cji-0ykwg787g.png" group-title="ByStube - BASIC",|ByStube| NAT GEO WILD FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96073
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDcbMt7ILmP8ZIEb6kyzRonyObhtkAB1sirgG8IGFD1NQ.png" group-title="ByStube - BASIC",|ByStube| ARTE FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96109
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM9srojFBuCSrjruzNxVm8f0sM5DtrCPaLMgYZmvgxKGg.png" group-title="ByStube - BASIC",|ByStube| MDR HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96075
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCPV-JAiaav3IIMo8-BAB-iEekCTL-FD8JiayMn55R_ig.png" group-title="ByStube - BASIC",|ByStube| NDR FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96072
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCeevGHscbqayfbLWF6DJKdpKn8sJtNlwVwOt7HbUTmoA.png" group-title="ByStube - BASIC",|ByStube| SONNENKLAR TV HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96157
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| KINO COMEDY HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96239
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| RTL UP HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96041
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| ZDF HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96286
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sAjks7DtHJvkwqxCYDFJvHcvaaRaKgc--5yStAUZPkIrA.png" group-title="ByStube - BASIC",|ByStube| SERVUS TV HD ByStubeUTSCHLAND
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96135
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| DISCOVERY CHANNEL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96023
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| RTL HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96267
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zP66ZWkRnXp_YlJmsvl8LZCHhlNZnT3-CL4RIlI4TjCVQ.png" group-title="ByStube - BASIC",|ByStube| DAS ERSTE FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96107
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| BILD FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96206
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| POWER TV HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96182
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCSFuDmcQAiwxUGScI9Zs5WJXmveAEB0KqM7KA89ZWXew.png" group-title="ByStube - BASIC",|ByStube| VOX FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96111
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNs5nWS5zOQu0BoJiGc5A3MKcc6NZF07BlNiquwP7fcBw.png" group-title="ByStube - BASIC",|ByStube| TLC HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95975
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| HAMBURG 1
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96192
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDyfWdboUt5V8ZPpTcqlGQQ_4X2jsWnCMPlcR6DNq_0ZA.png" group-title="ByStube - BASIC",|ByStube| PRO 7 FUN FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96061
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQDSJKJg5hPFlJ8qm559S22bs2H0gyh_cji-0ykwg787g.png" group-title="ByStube - BASIC",|ByStube| NAT GEO WILD HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96025
+#EXTINF:-1 tvg-logo="https://noos.vip/logo/ByStube/daserste.png" group-title="ByStube - BASIC",|ByStube| DAS ERSTE HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96266
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sAXzvZ_g1gD1rkJUdx9UhoyEhyvBOALHAbNvbZio_GSlA.png" group-title="ByStube - BASIC",|ByStube| SPIEGEL TV WISSEN HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96136
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| TELE 5 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96047
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| RBB HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96197
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCB9LcX55OctTU7t3j0b8_Bcpj6wddWUA9mDiQGeVFY7A.png" group-title="ByStube - BASIC",|ByStube| DMAX HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96020
+#EXTINF:-1 group-title="ByStube - BASIC",|ByStube| BIBEL TV HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96186
+#EXTINF:-1 group-title="ByStube - DAZN EVENTS",|ByStube| DAZN Event 5 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438185
+#EXTINF:-1 group-title="ByStube - DAZN EVENTS",|ByStube| DAZN Event 6 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438186
+#EXTINF:-1 group-title="ByStube - DAZN EVENTS",|ByStube| DAZN Event 7 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438187
+#EXTINF:-1 group-title="ByStube - DAZN EVENTS",|ByStube| DAZN Event 8 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438188
+#EXTINF:-1 group-title="ByStube - DAZN EVENTS",|ByStube| DAZN Event 9 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438189
+#EXTINF:-1 group-title="ByStube - DAZN EVENTS",|ByStube| DAZN Event 1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438181
+#EXTINF:-1 group-title="ByStube - DAZN EVENTS",|ByStube| DAZN Event 10 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438190
+#EXTINF:-1 group-title="ByStube - DAZN EVENTS",|ByStube| DAZN Event 2 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438182
+#EXTINF:-1 group-title="ByStube - DAZN EVENTS",|ByStube| DAZN Event 3 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438183
+#EXTINF:-1 group-title="ByStube - DAZN EVENTS",|ByStube| DAZN Event 4 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438184
+#EXTINF:-1 group-title="ByStube - DYN SPORTS",|ByStube| DYN SPORT 2 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438203
+#EXTINF:-1 group-title="ByStube - DYN SPORTS",|ByStube| DYN SPORTS 3
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438204
+#EXTINF:-1 group-title="ByStube - DYN SPORTS",|ByStube| DYN SPORTS 4
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438205
+#EXTINF:-1 group-title="ByStube - DYN SPORTS",|ByStube| DYN SPORTS 5
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438206
+#EXTINF:-1 group-title="ByStube - DYN SPORTS",|ByStube| DYN SPORTS 6
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438207
+#EXTINF:-1 group-title="ByStube - DYN SPORTS",|ByStube| DYN SPORTS 7
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438208
+#EXTINF:-1 group-title="ByStube - DYN SPORTS",|ByStube| DYN SPORTS 8
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438209
+#EXTINF:-1 group-title="ByStube - DYN SPORTS",|ByStube| DYN SPORTS 9
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438210
+#EXTINF:-1 group-title="ByStube - DYN SPORTS",|ByStube| DYN SPORTS 10
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438211
+#EXTINF:-1 group-title="ByStube - DYN SPORTS",|ByStube| DYN SPORT 1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438202
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPOhOE98Jt7glyAtR0EgsW0SxXjzgu198bt7m4irPW_lg.png" group-title="ByStube - KINByStubeR",|ByStube| CARTOON NETWORK HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96044
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sByStubeFQUsNiQAKqJEGOJmFunzo2EsZEA9VZNYatl78pjPTA.png" group-title="ByStube - KINByStubeR",|ByStube| BABY TV HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96080
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPfpqz7Hn8lgB95RYesbgfNTvizuo9u8kdYZY4iyTksMw.png" group-title="ByStube - KINByStubeR",|ByStube| NICK JR
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96196
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTeEXhVm1FyDw2E0_hIYV3m5hmwkkx4UM5itBS6-0cQhw.png" group-title="ByStube - KINByStubeR",|ByStube| SUPER RTL FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96067
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQe1bDYP85l3beOpNBt9Sut-V31GCJjOx6iz_P9cVOE2A.png" group-title="ByStube - KINByStubeR",|ByStube| NICK - COMEDY CENTRAL+1
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96154
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sAqW5IJe92UnMmruxh6o0gfXAI1zk5dYipLKXqBsr-IsA.png" group-title="ByStube - KINByStubeR",|ByStube| KIKA HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96016
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sB6K1o5qHq_J8-22mAa5x7eASZT87Uhp80iZOMJarJWsg.png" group-title="ByStube - KINByStubeR",|ByStube| NICKTOONS
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96187
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRazARNmrevKnB1G54g3bl0.png" group-title="ByStube - KINByStubeR",|ByStube| TOGGO PLUS HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96042
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTeEXhVm1FyDw2E0_hIYV3m5hmwkkx4UM5itBS6-0cQhw.png" group-title="ByStube - KINByStubeR",|ByStube| SUPER RTL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95977
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sAqW5IJe92UnMmruxh6o0gfXAI1zk5dYipLKXqBsr-IsA.png" group-title="ByStube - KINByStubeR",|ByStube| KIKA FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96040
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sAmKBYzBP5AGF-pR9tOL8w3Jr1hcdAoWMWm_q42QByStubeSfQ.png" group-title="ByStube - KINByStubeR",|ByStube| DISNEY CHANNEL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96022
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sAmKBYzBP5AGF-pR9tOL8w3Jr1hcdAoWMWm_q42QByStubeSfQ.png" group-title="ByStube - KINByStubeR",|ByStube| DISNEY+ FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96251
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| KINO ANIMATION HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96237
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX SELECT HD 6
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96295
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 11 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96095
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 15 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96099
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| RTL CRIME HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96087
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY REPLAY FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96190
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE VITRINE FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96103
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR ROMANTISCH HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96226
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA PREMIEREN HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95995
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| KINO SCIFI HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96236
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX SELECT HD 7
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96294
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 13 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96097
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| KINOWELT HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96059
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA ACTION HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96006
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 17 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96101
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| KABEL EINS CLASSICS HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96046
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 4 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95986
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA SPECIAL FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96191
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA SPECIAL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96165
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 16 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96100
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR 007 JAMES BOND HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96218
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| COMEDY CENTRAL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96137
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA PREMIEREN +24 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96120
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| KINO HORROR HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96235
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX KINO 1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96293
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR CRIME HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96223
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR ANIMATION HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96221
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| TNT SERIE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95973
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA BEST OF FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96124
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY ATLANTIC HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96007
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR ABENTEUER HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96222
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 5 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95985
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA PREMIEREN +24 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95994
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CRIME+ INVESTIGATION FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96084
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| KINO FAMILY HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96234
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX KINO 2 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96292
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 8 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95983
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CRIME+ INVESTIGATION HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96055
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 18 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96102
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| 13TH STREET FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96086
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA BEST OF HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96139
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| KINO ACTION HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96233
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX KINO 3 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96291
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR MARVEL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96219
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR FANTASIE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96227
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY KRIMI FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95991
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA THRILLER HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95993
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 9 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96093
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR FAMILIE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96225
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 14 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96098
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR SCI-FI HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96228
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA FUN HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95992
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX PREMIERE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96309
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX KINO COLLECTION HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96290
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| HEIMATKANAL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96171
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| RTL PASSION FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96069
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| UNIVERSAL CHANNEL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96053
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SONY CHANNEL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96255
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY ATLANTIC FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96122
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA THRILLER FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96119
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX SELECT HD 1
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96300
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| RTL PASSION HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96089
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA ACTION FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96121
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR PREMIRERE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96231
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX 007 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96289
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SAT 1 EMOTION HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96106
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 7 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95984
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA CLASSICS HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95990
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY ONE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96051
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SILVERLINE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96176
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR ACTION HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96220
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 1 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95989
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX SELECT HD 2
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96299
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 3 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95987
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR KOMODIE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96230
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX STAR WARS HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96288
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CRIME FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96178
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX KINO 4 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96253
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 10 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96094
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| RTL CRIME FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96070
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| KINO CRIME HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96240
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX SELECT HD 3
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96298
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| ROMANCE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96063
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX KINO 5 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96252
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX SELECT HD 4
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96297
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA PREMIEREN FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96118
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SYFY HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95976
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR DRAMA HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96224
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR JACKIE CHAN HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96213
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA FAMILY HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96152
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY CINEMA FAMILY FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96123
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| CINE STAR HORROR HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96229
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| KINO DRAMA HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96238
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| MAX SELECT HD 5
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96296
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 12 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96096
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY COMEDY FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96177
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| 13TH STREET HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96043
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 2 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95988
+#EXTINF:-1 group-title="ByStube - KINO/SERIEN",|ByStube| SKY SELECT PREMIERE 6 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96250
+#EXTINF:-1 group-title="ByStube - MUSIK",|ByStube| MTV LIVE
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96184
+#EXTINF:-1 group-title="ByStube - MUSIK",|ByStube| MTV MUSIC 24
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96263
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nRoGUBmongHx79veisEEyC7T1CRAJv5ZMF1DjpFy18xbA.png" group-title="ByStube - MUSIK",|ByStube| MTV GERMANY
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96257
+#EXTINF:-1 group-title="ByStube - MUSIK",|ByStube| VH1
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96138
+#EXTINF:-1 group-title="ByStube - MUSIK",|ByStube| MTV DANCE
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96256
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zOQprwuh1K_kYeq_dcTUIP-d5t--iIQh8azKXEVsNOQHg.png" group-title="ByStube - MUSIK",|ByStube| JUKEBOX TV
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96200
+#EXTINF:-1 group-title="ByStube - MUSIK",|ByStube| MTV 80S
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96212
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDFGuucFy1mjYVU_Q61fukd0njv7dioIqbrjwtklUnHiQ.png" group-title="ByStube - MUSIK",|ByStube| MEZZO
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96183
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCu6R0ayKuGryN9llVuWuq_I6oUwO-hm29SeI4-tocLrA.png" group-title="ByStube - MUSIK",|ByStube| GOLDSTAR TV HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95967
+#EXTINF:-1 group-title="ByStube - MUSIK",|ByStube| MTV 90S
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96205
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM2X4EoPwT124D10efsdVeETqCe447rM5X7USIdvk9Bsw.png" group-title="ByStube - MUSIK",|ByStube| MYTVPLUS HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96172
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nSyhoS9OafRen7v7RIiRN14GiSX3x2_YPxIyOMVM_pc0w.png" group-title="ByStube - MUSIK",|ByStube| STINGRAY CLASSICA HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96169
+#EXTINF:-1 group-title="ByStube - MUSIK",|ByStube| MTV HITS
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96202
+#EXTINF:-1 group-title="ByStube - MUSIK",|ByStube| ByStubeLUX MUSIC HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96155
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBEgaKQnCoI22He0tAr9TpGyh0aAAC5RUa6wkkNsU275Q.png" group-title="ByStube - NEWS",|ByStube| N-TV HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96071
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTwmx58n1XDym_23GtZ7Tbf8fuAn3pev4NAltWXnBfWrQ.png" group-title="ByStube - NEWS",|ByStube| DW TV
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96162
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMf6D8nQdnpms3Sw6N6_aYgMxeDH_n3BFwpU0EiHIDPrA.png" group-title="ByStube - NEWS",|ByStube| WELT ByStubeR WUNByStubeR
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95971
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBEgaKQnCoI22He0tAr9TpGyh0aAAC5RUa6wkkNsU275Q.png" group-title="ByStube - NEWS",|ByStube| N-TV HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96273
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sChMIvpc89iWIMI3mSylNDOEJuzMtKR31P83il7NyFNEA.png" group-title="ByStube - NEWS",|ByStube| WELT HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96110
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPjeMjVG17su3N6tMTN-Lc_n2WPTUgucU8J1oo6rACEhw.png" group-title="ByStube - NEWS",|ByStube| ONE HD (Ard)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96156
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nT4zSk8QdVuENfIejMgnJDQTk21f57vWLSjUl003tblVA.png" group-title="ByStube - NEWS",|ByStube| EURONEWS
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96159
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTULQ7BGUXrYODMA-iLHROmj_ju0TFHVkZlo4cxCv5-sQ.png" group-title="ByStube - NEWS",|ByStube| HEALTH TV
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96185
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sABXuCmiP8osFA2UAa_CynKGzodX2OGrXVaBfa33NI3Kg.png" group-title="ByStube - NEWS",|ByStube| PHOENIX HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96062
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zO4BMaC-PR9a2-6g4utgphm2G2KFmeCUP62SIc6WCHJpw.png" group-title="ByStube - NEWS",|ByStube| TAGESSCHAU 24 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96164
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCsJ1BR5FJM_rqQN3zcpkDxf1nByStubeYPRmzaJK0VQ0bldSQ.png" group-title="ByStube - NEWS",|ByStube| BON GUSTO
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96188
+#EXTINF:-1 group-title="ByStube - NEWS",|ByStube| HGTV HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96189
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nR2c_oxb425zVL7fHnXep0G9lrSZXEuR1bnsvo-_ZM2yg.png" group-title="ByStube - NEWS",|ByStube| ARD-ALPHA HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96158
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 2 FullHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438192
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 3 FullHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438193
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 4 FullHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438194
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 5 FullHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438195
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 6 FullHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438196
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 7 FullHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438197
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 7 FullHD (Magenta)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438198
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 8 FullHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438199
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 9 FullHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438200
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 10 FullHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438201
+#EXTINF:-1 group-title="ByStube - RTL+ EVENT",|ByStube| RTL+ SPORT EVENT 1 FullHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/438191
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 1 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165198
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 7 FHD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96130
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| VIP MYSPORTS 3 HD (En Francais)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96370
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| MAGENTA SPORT 1 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/132449
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCHoc0U9-nzCMvOpmMrPrdTgolKgRZOAE2d_5n6jENgWA.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT 2 HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96276
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDgZPfkcOW4mhuMTHyskkt2Gl5wp5Q9tW7_IAm5-q_XEQ.png" group-title="ByStube - SPORT",|ByStube| SPORT 1+ FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96065
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT 3 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96150
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTzh90TXocieJKYhAPUcr2oeuEV0hd0swtsLsQNC-FeQg.png" group-title="ByStube - SPORT",|ByStube| DAZN 2 BAR HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96265
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT 6 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96147
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT PREMIER LEAGUE FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/110860
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 11 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165208
+#EXTINF:-1 group-title="ByStube - SPORT",•●| ★ Swisscom | Bluewin ★ |●•
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165197
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT 5 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96148
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| VIP MYSPORTS 2 HD (En Francais)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96369
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 5 FHD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96128
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| DAZN RISE
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/113922
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBK678HByStubef2KMh6NsMmK7_EF4HJpx4nT0-kgqrku27sxw.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT 1 HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96275
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 10 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165207
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| MAGENTA SPORT 10 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/132458
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT GOLF HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/110859
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT 10 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96143
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| VIP MYSPORTS 1 HD (En Francais)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96368
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| DAZN FAST
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/113921
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBOKmh0PZq6Y21ZsUuVrvJ7mNOKVkI8DGfJAzVAoVc3rA.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT NEWS HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96274
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDW7cDUNpc3cwuH2G34Yzgph3lg4xo0Z6TYx4V76LlCwg.png" group-title="ByStube - SPORT",|ByStube| EUROSPORT 2 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96058
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| AUTO MOTOR SPORT CHANNEL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96140
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTzh90TXocieJKYhAPUcr2oeuEV0hd0swtsLsQNC-FeQg.png" group-title="ByStube - SPORT",|ByStube| DAZN 2 BAR HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96090
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 9 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165206
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| EUROSPORT 2 XTRA FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96105
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCHoc0U9-nzCMvOpmMrPrdTgolKgRZOAE2d_5n6jENgWA.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT 2 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96134
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBK678HByStubef2KMh6NsMmK7_EF4HJpx4nT0-kgqrku27sxw.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT 1 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96133
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMzjg-gJHlctGh0IKgx2rZ7Zwkf_Q23Pg4hXFDL6HlQ7A.png" group-title="ByStube - SPORT",|AT| ORF SPORT+ HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96315
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| MAGENTA SPORT 9 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/132457
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| VIP MYSPORTS HD (En Francais)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96367
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 4 FHD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96127
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT D2 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165216
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 8 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165205
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 6 (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96000
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDAuBpB5WldbElKspwu7-qA5ZfuQcayahLGKUYrfqD2lA.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT AUSTRIA FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96131
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| MAGENTA SPORT 8 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/132456
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95996
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 3 FHD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96126
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT D1 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165215
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 7 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165204
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT GOLF FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/110858
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 6 FHD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96129
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| MAGENTA SPORT 7 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/132455
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT TENNIS HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/110865
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 17 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165214
+#EXTINF:-1 tvg-logo="https://funkymonkeybox.com:443/images/jhqXUQ-zcaMAfRBjjBBPixYxoFaei1FBQiEkOVilvAVUA7amwdHpQsNfZfawBIjlCZwuLpousaBCtBAmjgzlI2xeCpJ-s4MBItgA0EUZucfd-RnJO7goxYMBU7ZsKK4SQKz8AUO8ITKqktijVSoHxwtkuP15J1ZbBSBEua5zpiA.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT AUSTRIA HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95981
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 6 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165203
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT F1 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96242
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT 9 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96144
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| VIP MYSPORTS 8 HD (En Francais)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96375
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| MAGENTA SPORT 6 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/132454
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 4 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96141
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT F1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96211
+#EXTINF:-1 group-title="ByStube - SPORT",|AT| SKY SPORT AUSTRIA 2 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96330
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT NEWS FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96132
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM7mqccXbazw-U46vdyTQ3opA2xKWXake_7x5O1LJPVpQ.png" group-title="ByStube - SPORT",|ByStube| MOTORVISION HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96015
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 16 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165213
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zOzw9tmSX3qRx74rvQSlPqj2nnwzehWwLVfQb5fzsCrdQ.png" group-title="ByStube - SPORT",|ByStube| SPORTDIGITAL FUSSBALL HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96254
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 5 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165202
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| VIP MYSPORTS 7 HD (En Francais)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96374
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| MAGENTA SPORT 5 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/132453
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT MIX FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/110862
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sCHoc0U9-nzCMvOpmMrPrdTgolKgRZOAE2d_5n6jENgWA.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT 2 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96050
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 15 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165212
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT 4 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96149
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 4 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165201
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 5 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96001
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| VIP MYSPORTS 6 HD (En Francais)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96373
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| MAGENTA SPORT 4 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/132452
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| WWE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96287
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 2 FHD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96125
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 3 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96002
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT TENNIS FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/110864
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBK678HByStubef2KMh6NsMmK7_EF4HJpx4nT0-kgqrku27sxw.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT 1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96049
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zNes95-88XHm83fVylHUmtCmvxDwu1QWkqksYhBergR-w.png" group-title="ByStube - SPORT",|AT| SKY SPORT AUSTRIA 1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96317
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 14 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165211
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT TOP EVENT FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/110866
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBOKmh0PZq6Y21ZsUuVrvJ7mNOKVkI8DGfJAzVAoVc3rA.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT NEWS HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95979
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 3 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165200
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 2 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96003
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT 7 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96146
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| VIP MYSPORTS 5 HD (En Francais)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96372
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| MAGENTA SPORT 3 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/132451
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 9 (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95997
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 10 (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96004
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT 8 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96145
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 1 HD (LQ)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96048
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDCWlo9kmWBUZZmALLffkf59b3zCvfUapkgz78Pyvi0fQ.png" group-title="ByStube - SPORT",|ByStube| ESPORTS1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96203
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBcTECTcps0cSnpdsFX9QMMgJzDfKpTRxi0YRccRy2lsw.png" group-title="ByStube - SPORT",|ByStube| EUROSPORT 1 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96078
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sBcTECTcps0cSnpdsFX9QMMgJzDfKpTRxi0YRccRy2lsw.png" group-title="ByStube - SPORT",|ByStube| EUROSPORT 1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96019
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 13 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165210
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| EUROSPORT 2 XTRA HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96142
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sDgZPfkcOW4mhuMTHyskkt2Gl5wp5Q9tW7_IAm5-q_XEQ.png" group-title="ByStube - SPORT",|ByStube| SPORT 1 HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95978
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 2 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165199
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj1ngpPANeRueT2blnJHK4sA77VtrVnyjs5oQmzew1NE5gmQlG0ihh0pe_fXDaU0Hyw.png" group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 1 FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96005
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| VIP MYSPORTS 4 HD (En Francais)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96371
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| MAGENTA SPORT 2 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/132450
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="ByStube - SPORT",|ByStube| DAZN 1 BAR HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96091
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="ByStube - SPORT",|ByStube| DAZN 1 BAR HEVC
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96278
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nTzh90TXocieJKYhAPUcr2oeuEV0hd0swtsLsQNC-FeQg.png" group-title="ByStube - SPORT",|ByStube| DAZN 2 BAR FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96160
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMzjg-gJHlctGh0IKgx2rZ7Zwkf_Q23Pg4hXFDL6HlQ7A.png" group-title="ByStube - SPORT",|AT| ORF SPORT+ FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96326
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 7 HD (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95999
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT PREMIER LEAGUE HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/110861
+#EXTINF:-1 group-title="ByStube - SPORT",|CH| BLUE SPORT 12 FHD [ ONLY LIVE EVENTS ]
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/165209
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT MIX HD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/110863
+#EXTINF:-1 tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvjzfQB5ueimHskgyZeSbB3nQBajLdMYdOwi0LacTOjvy8RpNHcceXuH0tqdI9tqpFXw.png" group-title="ByStube - SPORT",|ByStube| DAZN 1 BAR FHD
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/96161
+#EXTINF:-1 group-title="ByStube - SPORT",|ByStube| SKY SPORT BUNByStubeSLIGA 8 (Match Time)
+http://sky.sportiumvip.xyz:8080/TV-54787956/847630975639/95998
+
+
+
+
 #EXTINF:-1 tvg-id="3305340365" tvg-name="SKY SPORT F1 HD (H265) (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SKY SPORT F1 HD (H265) (1)
 https://vavoo.to/play/3305340365/index.m3u8
 #EXTINF:-1 tvg-id="2151805300" tvg-name="SKY SPORT F1 HD (LOCAL) (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SKY SPORT F1 HD (LOCAL) (1)
