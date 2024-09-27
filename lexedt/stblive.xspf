@@ -13,31 +13,32 @@ https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STB " tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="ByStube - BASIC",1-2-3.tv
 https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-id="3112374461" tvg-name="SKY CINEMA SPECIAL HD+ (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SKY CINEMA SPECIAL HD+ (1)
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SPECIAL HD+ (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SKY CINEMA SPECIAL HD+ (1)
 https://vavoo.to/play/3112374461/index.m3u8
-#EXTINF:-1 tvg-id="4122072531" tvg-name="SAT 1 (6)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SAT 1 (6)
+#EXTINF:-1 tvg-id="" tvg-name="SAT 1 (6)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SAT 1 (6)
 https://vavoo.to/play/4122072531/index.m3u8
-#EXTINF:-1 tvg-id="3854738303" tvg-name="13TH STREET HD (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",13TH STREET HD (1)
+#EXTINF:-1 tvg-id="" tvg-name="13TH STREET HD (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",13TH STREET HD (1)
 https://vavoo.to/play/3854738303/index.m3u8
-#EXTINF:-1 tvg-id="2558350352" tvg-name="SAT 1 (7)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SAT 1 (7)
+#EXTINF:-1 tvg-id="" tvg-name="SAT 1 (7)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SAT 1 (7)
 https://vavoo.to/play/2558350352/index.m3u8
-#EXTINF:-1 tvg-id="2594145557" tvg-name="BLUETV MARVEL ʜᴅ (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",BLUETV MARVEL ʜᴅ (1)
+#EXTINF:-1 tvg-id="" tvg-name="BLUETV MARVEL ʜᴅ (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",BLUETV MARVEL ʜᴅ (1)
 https://vavoo.to/play/2594145557/index.m3u8
-#EXTINF:-1 tvg-id="756758171" tvg-name="SKY SPORT MIX (7)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SKY SPORT MIX (7)
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT MIX (7)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SKY SPORT MIX (7)
 https://vavoo.to/play/756758171/index.m3u8
-#EXTINF:-1 tvg-id="3755683281" tvg-name="RTL (7)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",RTL (7)
+#EXTINF:-1 tvg-id="" tvg-name="RTL (7)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",RTL (7)
 https://vavoo.to/play/3755683281/index.m3u8
-#EXTINF:-1 tvg-id="1936179383" tvg-name="13TH STREET HD+ (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",13TH STREET HD+ (1)
+#EXTINF:-1 tvg-id="" tvg-name="13TH STREET HD+ (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",13TH STREET HD+ (1)
 https://vavoo.to/play/1936179383/index.m3u8
-#EXTINF:-1 tvg-id="1758367531" tvg-name="RTL 2 HD+ (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",RTL 2 HD+ (1)
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 HD+ (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",RTL 2 HD+ (1)
 https://vavoo.to/play/1758367531/index.m3u8
-#EXTINF:-1 tvg-id="3160812963" tvg-name="13TH STREET (7)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",13TH STREET (7)
+#EXTINF:-1 tvg-id="" tvg-name="13TH STREET (7)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",13TH STREET (7)
 https://vavoo.to/play/3160812963/index.m3u8
-#EXTINF:-1 tvg-id="2473434130" tvg-name="SKY ACTION HD (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SKY ACTION HD (1)
+#EXTINF:-1 tvg-id="" tvg-name="SKY ACTION HD (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SKY ACTION HD (1)
 https://vavoo.to/play/2473434130/index.m3u8
-#EXTINF:-1 tvg-id="4156854331" tvg-name="SKY SPORT NEWS (7)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SKY SPORT NEWS (7)
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT NEWS (7)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",SKY SPORT NEWS (7)
 https://vavoo.to/play/4156854331/index.m3u8
-#EXTINF:-1 tvg-id="2728119673" tvg-name="RTL HD+ (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",RTL HD+ (1)
+#EXTINF:-1 tvg-id="" tvg-name="RTL HD+ (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",RTL HD+ (1)
 https://vavoo.to/play/2728119673/index.m3u8
 #EXTINF:-1 tvg-id="2728959195" tvg-name="RTL HD (1)" tvg-logo="https://raw.githubusercontent.com/ibawova/lexe/main/lexedt/logoix/stubem3u.png" group-title="Germany",RTL HD (1)
 https://vavoo.to/play/2728959195/index.m3u8
