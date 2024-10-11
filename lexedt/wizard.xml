@@ -27,7 +27,7 @@
  <name>[COLOR red]StubeBoxLite-ByStube-THEMA[COLOR]</name>
  <version>1.0</version>
  <url>https://archive.org/download/Sport_Edition/Sport.zip</url>
- <iconhttps://github.com/ibawova/lexe/blob/main/lexedt/logoix/vip.png</icon>
+ <icon>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/vip.png</icon>
  <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
  <description>Sport Kodi Edition installer</description>
  </build>
