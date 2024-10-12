@@ -1,15 +1,15 @@
 <builds>  
  <build>
  <name>[COLOR chartreuse]StubeBoxPro-ByNahro-THEMA[COLOR]</name>
- <version>2.2</version>
+ <version>2.2.ByNahro</version>
  <url>https://vuifxg.db.files.1drv.com/y4mxrgp7pnjvGTy_o_yzQmkbOoOiAiaEEacr0vPeEW2gg7SgHJSlpJa3SyoZ9OUlId0Ww6Sb4gY1Me_blfSSaRtZMSSGhLCEHeUvoRuOFfs1BQZDzncGQ7DQpT_6_q8NT3JjfJ8HhK7979vyQlcy3gaKZfzdeI00dGegoW4IqKrfSxb7_wuMEW-wu0luEaRKC4Fvi-Lz0a3GufglnSXjXD2zA</url>
- <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
- <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
+ <icon>https://drive.usercontent.google.com/download?id=1ep1f_JukS7RnIcfnIl0Rd1KmsohRCEF1&export=download&authuser=2&confirm=t&uuid=50ecf1a6-f9a9-4d73-a579-4146f8a59c23&at=AN_67v39sCVdCodCIxWuJITD7m10:1728738061271</icon>
+ <fanart>https://drive.usercontent.google.com/download?id=1ep1f_JukS7RnIcfnIl0Rd1KmsohRCEF1&export=download&authuser=2&confirm=t&uuid=50ecf1a6-f9a9-4d73-a579-4146f8a59c23&at=AN_67v39sCVdCodCIxWuJITD7m10:1728738061271</fanart>
  <description>JokerTV Kodi Installer. Updated 02/10/24</description>
 </build>
  <build>
  <name>[COLOR dodgerblue]StubeBoxPro-ByStube-THEMA[COLOR]</name>
- <version>1.2</version>
+ <version>2.2.ByNahro</version>
  <url>https://archive.org/download/vendetta_build/Vandetta.zip</url>
  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
  <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
@@ -17,7 +17,7 @@
  </build>
  <build>
  <name>[COLOR blue]StubeBoxLite-ByNahro-THEMA[COLOR]</name>
- <version>1.2</version>
+ <version>2.2.ByNahro</version>
  <url>https://archive.org/download/medusa_build/Medusa.zip</url>
  <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
  <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
@@ -25,7 +25,7 @@
 </build>
  <build>
  <name>[COLOR red]StubeBoxLite-ByStube-THEMA[COLOR]</name>
- <version>1.0</version>
+ <version>2.2.ByNahro</version>
  <url>https://archive.org/download/Sport_Edition/Sport.zip</url>
  <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
  <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
