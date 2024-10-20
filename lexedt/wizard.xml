@@ -1,34 +1,5 @@
  <builds>  
  <build>
- <name>[COLOR chartreuse]StubeBoxPro[COLOR] - ([COLOR green]Online[COLOR])</name>
- <version>2.2</version>
  <url>https://vuifxg.db.files.1drv.com/y4mxrgp7pnjvGTy_o_yzQmkbOoOiAiaEEacr0vPeEW2gg7SgHJSlpJa3SyoZ9OUlId0Ww6Sb4gY1Me_blfSSaRtZMSSGhLCEHeUvoRuOFfs1BQZDzncGQ7DQpT_6_q8NT3JjfJ8HhK7979vyQlcy3gaKZfzdeI00dGegoW4IqKrfSxb7_wuMEW-wu0luEaRKC4Fvi-Lz0a3GufglnSXjXD2zA</url>
- <icon>https://hizliresim.com/3xj1dnf</icon>
- <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
- <description>StubeBoxPro Installer. Updated 13/10/24</description>
- </build>
- <build>
- <name>[COLOR dodgerblue]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
- <version>1.2</version>
- <url>https://archive.org/download/vendetta_build/Vandetta.zip</url>
- <icon>https://hizliresim.com/3xj1dnf</icon>
- <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
- <description>StubeBoxPro Installer. Updated 15/04/24</description>
- </build>
- <build>
- <name>[COLOR blue]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
- <version>1.2</version>
- <url>https://archive.org/download/medusa_build/Medusa.zip</url>
- <icon>https://hizliresim.com/3xj1dnf</icon>
- <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
- <description>StubeBoxPro Installer. Release date: 28/04/24</description>
- </build>
- <build>
- <name>[COLOR red]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
- <version>1.0</version>
- <url>https://archive.org/download/Sport_Edition/Sport.zip</url>
- <icon>https://hizliresim.com/3xj1dnf</icon>
- <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
- <description>StubeBoxPro Edition installer</description>
  </build>
 </builds>
