@@ -1,6 +1,6 @@
 31
 |||
-[B][COLORblue]( Derzeit sind keine neuen Updates verfügbar! )[/COLOR][/B]
+[B][COLORyellow]( Derzeit sind keine neuen Updates verfügbar! )[/COLOR][/B]
 
 [B]Es gibt zwei verschiedene Skins. Bei ByNahro und ByStube haben Sie die Wahl. Sie können sich vom System aus anmelden und den gewünschten Skin auswählen.[/B]
 
