@@ -1,32 +1,37 @@
- <builds>  
+<builds>  
  <build>
- <name>[COLOR chartreuse]StubeBoxPro[COLOR] - ([COLOR green]Offline[COLOR])</name>
- <version>ByNahro</version>
- <url>https://archive.org/download/byhalo/akt.zip</url>
- <icon>https://hizliresim.com/3xj1dnf</icon>
- <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
- </build>
- <build>
- <name>[COLOR dodgerblue]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
- <version>ByNahro</version>
- <url>https://archive.org/download/byhalo/akt.zip</url>
- <icon>https://hizliresim.com/3xj1dnf</icon>
- <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
- </build>
- <build>
- <name>[COLOR blue]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
- <version>ByStube</version>
- <url>https://archive.org/download/byhalo/akt.zip</url>
- <icon>https://hizliresim.com/3xj1dnf</icon>
- <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
- </build>
- <build>
- <name>[COLOR red]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
- <version>ByStube</version>
- <url>https://archive.org/download/byhalo/akt.zip</url>
- <icon>https://hizliresim.com/3xj1dnf</icon>
- <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
- </build>
-</builds>
+ <name>[COLOR chartreuse]JokerTV Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <version>2.2</version>
+ <url>https://influ-encer.in/Jokertv2.zip</url>
+ <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
+ <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
+ <description>JokerTV Kodi Installer. Unser Kodi Installer ist vollständig kostenfrei, aber es gelten einige grundlegende Dinge:
+Sofern nicht anders oder ausdrücklich erklärt, übernehmen wir keine Haftung für jegliche Schäden, Inhalte, Verfügbarkeit oder Zuverlässigkeit. Wir übernehmen außerdem keine Verantwortung und können ihnen keine Zusicherungen geben. Wir übernehmen keine Haftung für Inhalte, welche von Nutzern in die Build eingetragen wurde oder welche auf Websites Dritter verweisen oder befinden. Sofern rechtswidrige Inhalte auf unserer Website zu finden sind, so bitten wir den Rechteinhaber, diese schnellstmöglich per Email uns mitzuteilen!
 
-https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml
+  Updated 01/10/24</description>
+</build>
+ <build>
+ <name>[COLOR dodgerblue]Vendetta Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <version>1.2</version>
+ <url>https://archive.org/download/vendetta_build/Vandetta.zip</url>
+ <icon>https://github.com/Toofaces2/Vendetta/blob/main/icon.jpg</icon>
+ <fanart>https://github.com/Toofaces2/Vendetta/blob/main/fanart.jpg</fanart>
+ <description>Vendetta Kodi Installer. Updated 15/04/24</description>
+ </build>
+ <build>
+ <name>[COLOR blue]Medusa Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <version>1.2</version>
+ <url>https://archive.org/download/medusa_build/Medusa.zip</url>
+ <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
+ <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
+ <description>JokerTV Kodi Installer. Release date: 28/04/24</description>
+</build>
+ <build>
+ <name>[COLOR orange]18+ Kodi Edition[COLOR] - ([COLOR green]Online[COLOR])</name>
+ <version>1.0</version>
+ <url>https://influ-encer.in/18.zip</url>
+ <icon>http://github.com/Toofaces2/jokertvkodi/blob/main/icon.png</icon>
+ <fanart>http://github.com/Toofaces2/jokertvkodi/blob/main/fanart.jpg</fanart>
+ <description>JokerTV Kodi Installer. Release date: 01/11/24</description>
+</build>
+</builds>
