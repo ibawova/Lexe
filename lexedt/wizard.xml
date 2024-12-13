@@ -1,27 +1,27 @@
  <builds>  
  <build>
- <name>[COLOR chartreuse]StubeBoxPro[COLOR] - ([COLOR green]Offline ( 1 )[COLOR])</name>
+ <name>[COLOR chartreuse]StubeBoxPro[COLOR] - ([COLOR green]Offline[COLOR])</name>
  <version>ByNahro</version>
  <url>https://archive.org/download/byhalo/akt.zip</url>
  <icon>https://hizliresim.com/3xj1dnf</icon>
  <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
  </build>
  <build>
- <name>[COLOR dodgerblue]StubeBoxPro[COLOR] - ([COLOR red]Offline ( 2 )[COLOR])</name>
+ <name>[COLOR dodgerblue]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
  <version>ByNahro</version>
  <url>https://archive.org/download/byhalo/akt.zip</url>
  <icon>https://hizliresim.com/3xj1dnf</icon>
  <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
  </build>
  <build>
- <name>[COLOR blue]StubeBoxPro[COLOR] - ([COLOR red]Offline ( 3 )[COLOR])</name>
- <version>ByNahro</version>
+ <name>[COLOR blue]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
+ <version>ByStube</version>
  <url>https://archive.org/download/byhalo/akt.zip</url>
  <icon>https://hizliresim.com/3xj1dnf</icon>
  <fanart>https://github.com/ibawova/lexe/blob/main/lexedt/logoix/fanart.jpg</fanart>
  </build>
  <build>
- <name>[COLOR red]StubeBoxPro[COLOR] - ([COLOR red]Offline ( 4 )[COLOR])</name>
+ <name>[COLOR red]StubeBoxPro[COLOR] - ([COLOR red]Offline[COLOR])</name>
  <version>ByStube</version>
  <url>https://archive.org/download/byhalo/akt.zip</url>
  <icon>https://hizliresim.com/3xj1dnf</icon>
